@@ -1,0 +1,1517 @@
+"","Play.ID","Character.ID","Name","Gender","Age","Status","Married.in.Beginning","Married.at.End","Married.to","Sibling.to","Servant.to","Offspring.of.Father","Offspring.of.Mother","Dies","Death.Act.Number","Killed.by"
+"1","1H4","#Bardolph_1H4","Bardolph","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","1H4","#MistressQuickly_1H4","Mistress Quickly","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","1H4","#Ostler_1H4","Ostler","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","1H4","#Peto_1H4","Peto","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","1H4","#Sheriff_1H4","Sheriff","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","1H4","#Vintner_1H4","Vintner","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","1H6","#Gargrave_1H6","Gargrave","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","1H6","#Glansdale_1H6","Glansdale","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1H6","#MasterGunner_1H6","MasterGunner","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","1H6","#Porter_1H6","Porter","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","1H6","#Pucelle_1H6","Pucelle","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,"Y",NA,"#York_1H6"
+"12","1H6","#Woodville_1H6","Woodville","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","2H4","#Bardolph_1H4","Bardolph","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","2H4","#Bullcalf_2H4","Bullcalf","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","2H4","#DollTearsheet_2H4","Doll Tearsheet","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","2H4","#Feeble_2H4","Feeble","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","2H4","#MistressQuickly_1H4","Mistress Quickly","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","2H4","#Mouldy_2H4","Mouldy","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","2H4","#OFFICERS.Fang_2H4","Fang","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","2H4","#OFFICERS.Snare_2H4","Snare","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","2H4","#Pistol_2H4","Pistol","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","2H4","#Poins_1H4","Poins","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","2H4","#Shadow_2H4","Shadow","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","2H4","#Shallow_2H4","Shallow","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","2H4","#Silence_2H4","Silence","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","2H4","#Wart_2H4","Wart","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","2H6","#Beadle_2H6","Beadle","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","2H6","#Bevis_2H6","Bevis","M","Adult","Middle Class",NA,NA,NA,NA,"#Cade_2H6",NA,NA,NA,NA,NA
+"29","2H6","#Bolingbroke_2H6","Bolingbroke","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","2H6","#Cade_2H6","Cade","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,"Y",4,"#Iden_2H6"
+"31","2H6","#Clerk_2H6","Clerk","M","Adult","Middle Class",NA,NA,NA,NA,"#Cade_2H6",NA,NA,NA,NA,NA
+"32","2H6","#Dick_2H6","Dick","M","Adult","Middle Class",NA,NA,NA,NA,"#Cade_2H6",NA,NA,NA,NA,NA
+"33","2H6","#Holland_2H6","Holland","M","Adult","Middle Class",NA,NA,NA,NA,"#Cade_2H6",NA,NA,NA,NA,NA
+"34","2H6","#Horner_2H6","Horner","M","Adult","Middle Class",NA,NA,NA,NA,"#York_1H6",NA,NA,NA,NA,NA
+"35","2H6","#Hume_2H6","Hume","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","2H6","#Jourdain_2H6","Jourdain","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","2H6","#Lieutenant_2H6","Lieutenant","M","Adult","Middle Class",NA,NA,NA,NA,"#Master_2H6",NA,NA,NA,NA,NA
+"38","2H6","#Master_2H6","Master","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","2H6","#MayorOfStAlbans_2H6","Mayor","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","2H6","#Michael_2H6","Michael","M","Adult","Middle Class",NA,NA,NA,NA,"#Cade_2H6",NA,NA,NA,NA,NA
+"41","2H6","#Sheriff_2H6","Sheriff","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","2H6","#Simpcox_2H6","Simpcox","M","Adult","Middle Class","Y","Y","#SimpcoxWife_2H6",NA,NA,NA,NA,NA,NA,NA
+"43","2H6","#SimpcoxWife_2H6","Simpcox's Wife","F","Adult","Middle Class","Y","Y","#Simpcox_2H6",NA,NA,NA,NA,NA,NA,NA
+"44","2H6","#Smith_2H6","Smith","M","Adult","Middle Class",NA,NA,NA,NA,"#Cade_2H6",NA,NA,NA,NA,NA
+"45","Ant","#Pompey_Ant","Pompey","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","AWW","#Diana_AWW","Diana","F","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,"#Widow_AWW",NA,NA,NA
+"47","AWW","#GENTLEMEN.1_AWW","First Gentleman","M","Adult","Middle Class",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"48","AWW","#GENTLEMEN.2_AWW","Second Gentleman","M","Adult","Middle Class",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"49","AWW","#GENTLEMEN.3_AWW","Gentleman","M","Adult","Middle Class",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"50","AWW","#Helen_AWW","Helena","F","Young Adult","Middle Class",NA,"Y","#Bertram_AWW",NA,NA,NA,NA,NA,NA,NA
+"51","AWW","#Mariana_AWW","Mariana","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","AWW","#Parolles_AWW","Parolles","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","AWW","#SOLDIERS_AWW","Soldier","M",NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","AWW","#SOLDIERS.0.1_AWW","Soldier","M",NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","AWW","#SOLDIERS.Interpreter_AWW","First Soldier","M",NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","AWW","#Widow_AWW","Widow","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Cym","#Cloten_Cym","Cloten","M","Young Adult","Middle Class","N","N",NA,NA,NA,NA,"#Queen_Cym","Y",4,NA
+"58","Cym","#Cornelius_Cym","Cornelius","M","Adult","Middle Class","N","N",NA,NA,NA,NA,NA,"N",NA,NA
+"59","Err","#Abbess_Err","Abbess","F","Adult","Middle Class","Y","Y","#Egeon_Err",NA,NA,NA,NA,NA,NA,NA
+"60","Err","#Adriana_Err","Adriana","F","Young Adult","Middle Class","Y","Y","#AntipholusOfEphesus_Err",NA,NA,NA,NA,NA,NA,NA
+"61","Err","#Angelo_Err","Angelo","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","Err","#AntipholusOfEphesus_Err","Antipholus of Ephesus","M","Young Adult","Middle Class","Y","Y","#Adriana_Err","#AntipholusOfSyracuse_Err",NA,"#Egeon_Err","#Abbess_Err",NA,NA,NA
+"63","Err","#AntipholusOfSyracuse_Err","Antipholus of Syracuse","M","Young Adult","Middle Class",NA,NA,NA,"#AntipholusOfEphesus_Err",NA,"#Egeon_Err","#Abbess_Err",NA,NA,NA
+"64","Err","#Balthasar_Err","Balthasar","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Err","#Egeon_Err","Egeon","M","Adult","Middle Class","Y","Y","#Abbess_Err",NA,NA,NA,NA,NA,NA,NA
+"66","Err","#Luciana_Err","Luciana","F","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","H5","#Cambridge_H5","Cambridge","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","H5","#Grey_H5","Grey","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","H5","#Jamy_H5","Jamy","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","H5","#Scroop_H5","Scroop","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","H8","#Brandon_H8","Brandon","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","H8","#Butts_H8","Butts","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","H8","#Capuchius_H8","Capuchius","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","H8","#Cranmer_H8","Cranmer","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","H8","#Crier_H8","Crier","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","H8","#Cromwell_H8","Cromwell","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","H8","#Denny_H8","Denny","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","H8","#Garter_H8","Garter","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","H8","#Keeper_H8","Keeper","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","H8","#Messenger_H8","Messenger","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","H8","#OldLady_H8","Old Lady","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","H8","#Page_H8","Page","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","H8","#Porter_H8","Porter","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","H8","#Scribe_H8","Scribe","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","H8","#Sergeant_H8","Sergeant","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","H8","#Surveyor_H8","Surveyor","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","H8","#Usher_H8","Usher","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","H8","#Vaux_H8","Vaux","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","Ham","#Doctor_Ham","Doctor","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","Ham","#Guildenstern_Ham","Guildenstern","M","Young Adult","Middle Class",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,"Y",5,"#Hamlet_Ham"
+"91","Ham","#Horatio_Ham","Horatio","M","Young Adult","Middle Class",NA,NA,NA,NA,"#Hamlet_Ham",NA,NA,NA,NA,NA
+"92","Ham","#Rosencrantz_Ham","Rosencrantz","M","Young Adult","Middle Class",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,"Y",5,"#Hamlet_Ham"
+"93","Jn","#Austria_Jn","Austria","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#Bastard_Jn"
+"94","Jn","#Hubert_Jn","Hubert","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","Jn","#Pandulph_Jn","Pandulph","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","Jn","#Peter_Jn","Peter","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","LLL","#Holofernes_LLL","Holofernes","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","LLL","#Nathaniel_LLL","Nathaniel","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","Mac","#Doctor1_Mac","Doctor","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","Mac","#Doctor2_Mac","Doctor","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","MM","#Claudio_MM","Claudio","M","Young Adult","Middle Class","N","Y","#Juliet_MM","#Isabella_MM",NA,NA,NA,NA,NA,NA
+"102","MM","#FriarPeter_MM","FriarPeter","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","MM","#FriarThomas_MM","FriarThomas","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","MM","#Froth_MM","Froth","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","MM","#GENTLEMEN.1_MM","GENTLEMEN.1","M",NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","MM","#GENTLEMEN.2_MM","GENTLEMEN.2","M",NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","MM","#Isabella_MM","Isabella","F","Young Adult","Middle Class","N","Y","#Duke_MM","#Claudio_MM",NA,NA,NA,NA,NA,NA
+"108","MM","#Juliet_MM","Juliet","F","Young Adult","Middle Class","N","Y","#Claudio_MM",NA,NA,NA,NA,NA,NA,NA
+"109","MM","#Justice_MM","Justice","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","MM","#Mariana_MM","Mariana","F","Young Adult","Middle Class","N","Y","#Angelo_MM",NA,NA,NA,NA,NA,NA,NA
+"111","MM","#Nun_MM","Nun","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","MM","#Pompey_MM","Pompey","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","MND","#Bottom_MND","Bottom","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","MND","#Demetrius_MND","Demetrius","M","Young Adult","Middle Class",NA,"Y","#Helena_MND",NA,NA,NA,NA,NA,NA,NA
+"115","MND","#Flute_MND","Flute","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","MND","#Helena_MND","Helena","F","Young Adult","Middle Class",NA,"Y","#Demetrius_MND",NA,NA,NA,NA,NA,NA,NA
+"117","MND","#Lysander_MND","Lysander","M","Young Adult","Middle Class",NA,"Y","#Hermia_MND",NA,NA,NA,NA,NA,NA,NA
+"118","MND","#Quince_MND","Quince","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","MND","#Snout_MND","Snout","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","MND","#Snug_MND","Snug","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","MND","#Starveling_MND","Starveling","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","MV","#Antonio_MV","Antonio","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","MV","#Bassanio_MV","Bassanio","M","Young Adult","Middle Class",NA,"Y","#Portia_MV",NA,NA,NA,NA,NA,NA,NA
+"124","MV","#Gratiano_MV","Gratiano","M","Young Adult","Middle Class",NA,"Y","#Nerissa_MV",NA,NA,NA,NA,NA,NA,NA
+"125","MV","#Jessica_MV","Jessica","F","Young Adult","Middle Class",NA,"Y","#Lorenzo_MV",NA,NA,"#Shylock_MV",NA,NA,NA,NA
+"126","MV","#Lorenzo_MV","Lorenzo","M","Young Adult","Middle Class",NA,"Y","#Jessica_MV",NA,NA,NA,NA,NA,NA,NA
+"127","MV","#Nerissa_MV","Nerissa","F","Young Adult","Middle Class",NA,"Y","#Gratiano_MV",NA,NA,NA,NA,NA,NA,NA
+"128","MV","#Salarino_MV","Salarino","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","MV","#Salerio_MV","Salerio",NA,"Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","MV","#Solanio_MV","Solanio","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","MV","#Tubal_MV","Tubal","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","Oth","#Cassio_Oth","Cassio","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","Oth","#GENTLEMEN.1_Oth","Gentlemen","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","Oth","#GENTLEMEN.2_Oth","Gentlemen","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","Oth","#GENTLEMEN.3_Oth","Gentlemen","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","Oth","#Roderigo_Oth","Roderigo","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#Iago_Oth"
+"137","Per","#Bawd_Per","Bawd","F","Adult","Middle Class","Y","Y","#Pander_Per",NA,NA,NA,NA,NA,NA,NA
+"138","Per","#Cerimon_Per","Cerimon","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Per","#Pander_Per","Pander","M","Adult","Middle Class","Y","Y","#Bawd_Per",NA,NA,NA,NA,NA,NA,NA
+"140","R3","#Archbishop_R3",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","R3","#BishopOfEly_R3","Bishop of Ely","M","Adult","Middle Class",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"142","R3","#Brakenbury_R3","Sir Robert Brakenbury","M","Adult","Middle Class",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"143","R3","#Cardinal_R3","Cardinal","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","R3","#CITIZENS.1_R3","First Citizen","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","R3","#CITIZENS.2_R3","Second Citizen","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","R3","#CITIZENS.3_R3","Third Citizen","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","R3","#GENTLEMEN.0.1_R3","Gentleman","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","R3","#Pursuivant_R3","Pursuivant","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","R3","#Sheriff_R3","Sherriff","M","Adult","Middle Class",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"150","R3","#SirChristopher_R3","Sir Christopher","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","R3","#SirJohn_R3","Sir John","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","R3","#Tyrrel_R3","James Tyrrel","M","Adult","Middle Class",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"153","Shr","#Haberdasher_Shr","Haberdasher","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","Shr","#Hostess_Shr","Hostess","F","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Shr","#Lord_Shr","Lord","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","Shr","#Sly_Shr","Christopher Sly","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","Shr","#Tailor_Shr","Tailor","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","TGV","#Antonio_TGV","Antonio","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","TGV","#Eglamour_TGV","Eglamour","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","TGV","#Host_TGV","Host","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","TGV","#Julia_TGV","Julia","F","Young Adult","Middle Class",NA,"Y","#Proteus_TGV",NA,NA,NA,NA,NA,NA,NA
+"162","TGV","#Proteus_TGV","Proteus","M","Young Adult","Middle Class",NA,"Y","#Julia_TGV",NA,NA,"#Antonio_TGV",NA,NA,NA,NA
+"163","TGV","#Thurio_TGV","Thurio","M","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","TGV","#Valentine_TGV","Valentine","M","Young Adult","Middle Class",NA,"Y","#Sylvia_TGV",NA,NA,NA,NA,NA,NA,NA
+"165","Tim","#Jeweler_Tim","Jeweler","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","Tim","#Painter_Tim","Painter","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","Tim","#Poet_Tim","Poet","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","Tit","#Aaron_Tit","Aaron","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,"Y",5,NA
+"169","Tit","#Messenger_Tit","Messenger",NA,NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","Tit","#Nurse_Tit","Nurse",NA,NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,"Y",4,"#Aaron_Tit"
+"171","Tmp","#Adrian_Tmp","Adrian","M","Adult","Middle Class",NA,NA,NA,NA,"#Alonso_Tmp",NA,NA,NA,NA,NA
+"172","Tmp","#Francisco_Tmp","Francisco","M","Adult","Middle Class",NA,NA,NA,NA,"#Alonso_Tmp",NA,NA,NA,NA,NA
+"173","TN","#Antonio_TN","Antonio","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","TN","#Captain_TN","Captain","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","TN","#Maria_TN","Maria","F","Adult","Middle Class",NA,"Y","#TobyBelch_TN",NA,NA,NA,NA,NA,NA,NA
+"176","TN","#Priest_TN","Priest","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","TN","#Sebastian_TN","Sebastian","M","Adult","Middle Class",NA,"Y","#Olivia_TN","#Viola_TN",NA,NA,NA,NA,NA,NA
+"178","TN","#Viola_TN","Viola","F","Young Adult","Middle Class",NA,"Y","#Orsino_TN","#Sebastian_TN",NA,NA,NA,NA,NA,NA
+"179","Wiv","#AnnePage_Wiv","Anne Page","F","Young Adult","Middle Class",NA,"Y","#Fenton_Wiv",NA,NA,"#MasterPage_Wiv","#MistressPage_Wiv",NA,NA,NA
+"180","Wiv","#DoctorCaius_Wiv","Doctor Caius","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","Wiv","#Fenton_Wiv","Fenton","M","Young Adult","Middle Class",NA,"Y","#AnnePage_Wiv",NA,NA,NA,NA,NA,NA,NA
+"182","Wiv","#Host_Wiv","Host","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","Wiv","#MasterFord_Wiv","Master Ford","M","Adult","Middle Class","Y","Y","#MistressFord_Wiv",NA,NA,NA,NA,NA,NA,NA
+"184","Wiv","#MasterPage_Wiv","Master Page","M","Adult","Middle Class","Y","Y","#MistressPage_Wiv",NA,NA,NA,NA,NA,NA,NA
+"185","Wiv","#MistressFord_Wiv","Mistress Ford","F","Adult","Middle Class","Y","Y","#MasterFord_Wiv",NA,NA,NA,NA,NA,NA,NA
+"186","Wiv","#MistressPage_Wiv","Mistress Page","F","Adult","Middle Class","Y","Y","#MasterPage_Wiv",NA,NA,NA,NA,NA,NA,NA
+"187","Wiv","#WilliamPage_Wiv","William Page","M","Child","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","Tim","#Alcibiades_Tim","Alcibiades","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","Tim","#Apemantus_Tim","Apemantus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","Tim","#Creditor_Tim","Creditor","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","1H4","#Archbishop_1H4","Archbishop (Scroop)","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","1H4","#Blunt_1H4","Walter Blunt","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#Douglas_1H4"
+"193","1H4","#Douglas_1H4","Archibald","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","1H4","#Glendower_1H4","Owen Glendower","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","1H4","#LadyPercy_1H4","Lady Percy","F","Adult","Nobility","Y","Y","#Hotspur_R2","#Mortimer_1H4",NA,NA,NA,NA,NA,NA
+"196","1H4","#Mortimer_1H4","Mortimer","M","Young Adult","Nobility",NA,NA,NA,"#LadyPercy_1H4",NA,NA,NA,NA,NA,NA
+"197","1H4","#SirMichael_1H4","Sir Michael","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","1H4","#Vernon_1H4","Vernon","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#HenryIV_1H4"
+"199","1H6","#Burgundy_1H6","Burgundy","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","1H6","#CardinalBeaufort_1H6","CardinalBeaufort","M","Adult","Nobility",NA,NA,NA,"#Exeter_H5",NA,NA,NA,NA,NA,NA
+"201","1H6","#Charles_1H6","Charles","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","1H6","#Countess_1H6","Countess","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","1H6","#Exeter_H5","Exeter","M","Adult","Nobility",NA,NA,NA,"#CardinalBeaufort_1H6",NA,NA,NA,NA,NA,NA
+"204","1H6","#Mayor_1H6","Mayor","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","1H6","#Salisbury_1H6","Salisbury","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","1H6","#Talbot_1H6","Talbot","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",NA,"#SOLDIERS.FRENCH.PUCELLE.0.1_1H6"
+"207","2H4","#Archbishop_1H4","Archbishop","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",4,"#Bedford_H5"
+"208","2H4","#Bedford_H5","Bedford","M","Adult","Nobility",NA,NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA
+"209","2H4","#ChiefJustice_2H4","Chief Justice","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","2H4","#Clarence_2H4","Clarence","M","Adult","Nobility",NA,NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA
+"211","2H4","#Colevile_2H4","Coleville","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",4,"#Bedford_H5"
+"212","2H4","#Falstaff_1H4","Falstaff","M","Elderly","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","2H4","#Gloucester_2H4","Gloucester","M","Adult","Nobility",NA,NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA
+"214","2H4","#Hastings_2H4","Hastings","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",4,"#Bedford_H5"
+"215","2H4","#LadyNorthumberland_2H4","Lady Northumberland","F","Adult","Nobility","Y","Y","#Northumberland_R2",NA,NA,NA,NA,NA,NA,NA
+"216","2H4","#LadyPercy_1H4","Lady Percy","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","2H4","#LordBardolph_2H4","Lord Bardolph","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","2H4","#Mowbray_2H4","Mowbray","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",4,"#Bedford_H5"
+"219","2H4","#Northumberland_R2","Northumberland","M","Adult","Nobility","Y","Y","#LadyNorthumberland_2H4",NA,NA,NA,NA,NA,NA,NA
+"220","2H4","#Warwick_2H4","Warwick","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","2H4","#Westmoreland_1H4","Westmoreland","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","2H6","#Clifford_2H6","Clifford","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,"Y",5,"#York_1H6"
+"223","2H6","#Clifford_3H6","Clifford","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,"#Clifford_2H6",NA,NA,NA
+"224","2H6","#EdwardIV_3H6","Edward IV","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#York_1H6",NA,NA,NA,NA
+"225","2H6","#Iden_2H6","Iden","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","2H6","#RichardIII_R3","Richard III","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#York_1H6",NA,NA,NA,NA
+"227","2H6","#Saye_2H6","Saye","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"228","2H6","#Scales_2H6","Scales","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"229","2H6","#Stafford_2H6","Stafford","M","Adult","Nobility",NA,NA,NA,"#WilliamStafford_2H6","#HenryVI_1H6",NA,NA,NA,NA,NA
+"230","2H6","#WilliamStafford_2H6","William Stafford","M","Adult","Nobility",NA,NA,NA,"#Stafford_2H6","#HenryVI_1H6",NA,NA,NA,NA,NA
+"231","3H6","#Clarence_3H6","Clarence","M","Adult","Nobility",NA,NA,NA,NA,NA,"#York_1H6",NA,NA,NA,NA
+"232","3H6","#Clifford_3H6","Clifford","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",2,NA
+"233","3H6","#Exeter_3H6","Exeter","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"234","3H6","#Gaunt_R2","Gaunt","M",NA,"Nobility",NA,NA,NA,"#York_R2","#RichardII_R2",NA,NA,"Y",2,NA
+"235","3H6","#Hastings_3H6","Hastings","M","Adult","Nobility",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"236","3H6","#JohnMortimer_3H6","John","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","3H6","#LadyBona_3H6","Bona","F","Young Adult","Nobility",NA,NA,NA,"#KingLewis_3H6",NA,NA,NA,NA,NA,NA
+"238","3H6","#MayorOfYork_3H6",NA,"M","Elderly","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239","3H6","#Montague_3H6","Montague","M","Young Adult","Nobility",NA,NA,NA,"#Warwick_2H6",NA,"#York_1H6",NA,NA,NA,NA
+"240","3H6","#Montgomery_3H6","Montgomery","M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","3H6","#Norfolk_3H6","Norfolk","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"242","3H6","#Northumberland_3H6","Northumberland","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"243","3H6","#Oxford_3H6","Oxford","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"244","3H6","#RichardIII_R3","Richard III","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","3H6","#Rivers_3H6","Rivers","M",NA,"Nobility",NA,NA,NA,"#QueenElizabeth_3H6","#EdwardIV_3H6",NA,NA,NA,NA,NA
+"246","3H6","#Rutland_3H6","Rutland","M","Child","Nobility",NA,NA,"#York_1H6",NA,NA,"#York_1H6",NA,"Y",1,"#Clifford_3H6"
+"247","3H6","#Somerset_3H6","Somerset","M","Adult","Nobility",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"248","3H6","#Somerville_3H6","Somerville","M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249","3H6","#Warwick_2H6","Warwick","M","Adult","Nobility",NA,NA,NA,"#Montague_3H6","#EdwardIV_3H6",NA,NA,"Y",5,NA
+"250","3H6","#Westmorland_3H6","Westmorland","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"251","3H6","#York_1H6","York","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",1,"#QueenMargaret_1H6;#Clifford_3H6"
+"252","Ado","#Antonio_Ado","Antonio","M","Adult","Nobility",NA,NA,NA,"#Leonato_Ado",NA,NA,NA,NA,NA,NA
+"253","Ado","#Beatrice_Ado","Beatrice","F","Young Adult","Nobility",NA,"Y","#Benedick_Ado",NA,NA,NA,NA,NA,NA,NA
+"254","Ado","#Benedick_Ado","Benedick","M","Young Adult","Nobility",NA,"Y","#Beatrice_Ado",NA,"#DonPedro_Ado",NA,NA,NA,NA,NA
+"255","Ado","#Claudio_Ado","Claudio","M","Young Adult","Nobility",NA,"Y","#Hero_Ado",NA,"#DonPedro_Ado",NA,NA,NA,NA,NA
+"256","Ado","#DonJohn_Ado","Don John","M","Young Adult","Nobility",NA,NA,NA,"#DonPedro_Ado",NA,NA,NA,NA,NA,NA
+"257","Ado","#Hero_Ado","Hero","F","Young Adult","Nobility",NA,"Y","#Claudio_Ado",NA,NA,"#Leonato_Ado",NA,NA,NA,NA
+"258","Ado","#Leonato_Ado","Leonato","M","Adult","Nobility",NA,NA,NA,"#Antonio_Ado",NA,NA,NA,NA,NA,NA
+"259","Ant","#Antony_JC","Mark Antony","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",4,NA
+"260","Ant","#Lepidus_JC","Lepidus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","Ant","#Octavia_Ant","Octavia","F","Adult","Nobility",NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA,NA
+"262","Ant","#Octavius_JC","Octavius","M","Adult","Nobility",NA,NA,NA,"#Octavia_Ant",NA,NA,NA,NA,NA,NA
+"263","AWW","#Bertram_AWW","Betram","M","Young Adult","Nobility",NA,"Y","#Helen_AWW",NA,NA,NA,"#Countess_AWW",NA,NA,NA
+"264","AWW","#Countess_AWW","Countess","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265","AWW","#Duke_AWW","Duke","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266","AWW","#King_AWW","King","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","AWW","#Lafew_AWW","Lafew","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","AWW","#LORDS.COURT.1_AWW","Lord","M","Adult","Nobility",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"269","AWW","#LORDS.COURT.2_AWW","Lord","M","Adult","Nobility",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"270","AWW","#LORDS.COURT.4_AWW","Lord","M","Adult","Nobility",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"271","AWW","#LORDS.DUMAINE.1_AWW","First Lord","M","Adult","Nobility",NA,NA,NA,"#LORDS.DUMAINE.2_AWW","#Duke_AWW",NA,NA,NA,NA,NA
+"272","AWW","#LORDS.DUMAINE.2_AWW","Second Lord","M","Adult","Nobility",NA,NA,NA,"#LORDS.DUMAINE.1_AWW","#Duke_AWW",NA,NA,NA,NA,NA
+"273","AYL","#Celia_AYL","Celia","F","Young Adult","Nobility",NA,"Y","#Oliver_AYL",NA,NA,"#DukeFrederick_AYL",NA,NA,NA,NA
+"274","AYL","#DukeFrederick_AYL","Duke Frederick","M","Adult","Nobility",NA,NA,NA,"#DukeSenior_AYL",NA,NA,NA,NA,NA,NA
+"275","AYL","#DukeSenior_AYL",NA,"M","Adult","Nobility",NA,NA,NA,"#DukeFrederick_AYL",NA,NA,NA,NA,NA,NA
+"276","AYL","#LORDS.FREDERICK.0.1_AYL",NA,"M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277","AYL","#LORDS.FREDERICK.0.2_AYL""",NA,"M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","AYL","#LORDS.FREDERICK.LeBeau_AYL","Le Beau","M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279","AYL","#LORDS.SENIOR.0.1_AYL",NA,"M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"280","AYL","#LORDS.SENIOR.Amiens_AYL","Amiens","M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281","AYL","#Oliver_AYL","Oliver","M","Young Adult","Nobility",NA,"Y","#Celia_AYL","#SecondBrother_AYL;#Orlando_AYL",NA,NA,NA,NA,NA,NA
+"282","AYL","#Orlando_AYL","Orlando","M","Young Adult","Nobility",NA,"Y","#Rosalind_AYL","#SecondBrother_AYL;#Oliver_AYL",NA,NA,NA,NA,NA,NA
+"283","AYL","#Rosalind_AYL","Rosalind","F","Young Adult","Nobility",NA,"Y","#Orlando_AYL",NA,NA,"#DukeSenior_AYL",NA,NA,NA,NA
+"284","AYL","#SecondBrother_AYL","Jaques de Bois","M","Young Adult","Nobility",NA,NA,NA,"#Orlando_AYL;#Oliver_AYL",NA,NA,NA,NA,NA,NA
+"285","Cor","#Adrian_Cor","Adrian","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286","Cor","#Aufidius_Cor","Tullus Aufidius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287","Cor","#Cominius_Cor","Cominius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288","Cor","#Coriolanus_Cor","Coriolanus","M","Adult","Nobility","Y","Y","#Virgilia_Cor",NA,"#Cominius_Cor",NA,"#Volumnia_Cor","Y",5,"#CONSPIRATORS.0.1_Cor;#CONSPIRATORS.0.2_Cor;#CONSPIRATORS.0.3_Cor"
+"289","Cor","#Herald_Cor","Roman Herald","M","Adult","Nobility",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"290","Cor","#Lartius_Cor","Titus Lartius","M","Adult","Nobility",NA,NA,NA,NA,"#Cominius_Cor",NA,NA,NA,NA,NA
+"291","Cor","#LORDS.VOLSCIAN_Cor","Volscians","M","Adult","Nobility",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"292","Cor","#LORDS.VOLSCIAN.0.1_Cor","First Volscian Lord","M","Adult","Nobility",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"293","Cor","#LORDS.VOLSCIAN.0.2_Cor","Second Volscian Lord","M","Adult","Nobility",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"294","Cor","#LORDS.VOLSCIAN.0.3_Cor","Third Volscian Lord","M","Adult","Nobility",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"295","Cor","#Menenius_Cor","Menenius Agrippa","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","Cor","#Nicanor_Cor","Nicanor","M","Adult","Nobility",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"297","Cor","#OFFICERS.1_Cor","First Officer","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298","Cor","#OFFICERS.2_Cor","Second Officer","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299","Cor","#TRIBUNES.Brutus_Cor","Junius Brutus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300","Cor","#TRIBUNES.Sicinius_Cor","Sicinius Velutus","M","Adult","Nobility",NA,NA,NA,NA,"#TRIBUNES.Brutus_Cor",NA,NA,NA,NA,NA
+"301","Cor","#Valeria_Cor","Valeria","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302","Cor","#Virgilia_Cor","Virgilia","F","Adult","Nobility","Y","Y","#Coriolanus_Cor",NA,NA,NA,NA,NA,NA,NA
+"303","Cor","#Volumnia_Cor","Volumnia","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Cor","#YoungMartius_Cor","Young Martius","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Coriolanus_Cor","#Virgilia_Cor",NA,NA,NA
+"305","Cym","#Arviragus_Cym","Arviragus","M","Young Adult","Nobility","N","N",NA,"#Imogen_Cym;#Guiderius_Cym",NA,"#Cymbeline_Cym",NA,"N",NA,NA
+"306","Cym","#Belarius_Cym","Belarius","M","Elderly","Nobility","N","N",NA,NA,NA,NA,NA,"N",NA,NA
+"307","Cym","#Lucius_Cym","Caius Lucius","M","Adult","Nobility","N","N",NA,NA,NA,NA,NA,"N",NA,NA
+"308","Cym","#Guiderius_Cym","Guiderius","M","Young Adult","Nobility","N","N",NA,"#Imogen_Cym;#Arviragus_Cym",NA,"#Cymbeline_Cym",NA,"N",NA,NA
+"309","Cym","#Iachimo_Cym","Iachimo","M","Young Adult","Nobility","N","N",NA,NA,NA,NA,NA,"N",NA,NA
+"310","Cym","#Imogen_Cym","Imogen","F","Young Adult","Nobility","Y","Y","#Posthumus_Cym","#Guiderius_Cym;#Arviragus_Cym",NA,"#Cymbeline_Cym",NA,"N",NA,NA
+"311","Cym","#Nobleman1_Cym","Nobleman1","M","Young Adult","Nobility","N","N",NA,NA,NA,NA,NA,"N",NA,NA
+"312","Cym","#Nobleman2_Cym","Nobleman2","M","Young Adult","Nobility","N","N",NA,NA,NA,NA,NA,"N",NA,NA
+"313","Cym","#Philario_Cym","Philario","M","Adult","Nobility","N","N",NA,NA,NA,NA,NA,"N",NA,NA
+"314","Cym","#Posthumus_Cym","Posthumus","M","Young Adult","Nobility","Y","Y","#Imogen_Cym",NA,NA,NA,NA,"N",NA,NA
+"315","Err","#Duke_Err","Solinus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","H5","#Alice_H5","Alice","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","H5","#Bedford_H5","Bedford","M","Adult","Nobility",NA,NA,NA,"#HenryV_H5",NA,NA,NA,NA,NA,NA
+"318","H5","#BishopOfCanterbury_H5","Bishop of Canterbury","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"319","H5","#BishopOfEly_H5","Bishop of Ely","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320","H5","#Bourbon_H5","Bourbon","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","H5","#Brittany_H5","Brittany","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","H5","#Burgundy_H5","Burgundy","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323","H5","#Constable_H5","Constable","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"324","H5","#Dauphin_H5","Dauphin","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#KingOfFrance_H5","#QueenOfFrance_H5",NA,NA,NA
+"325","H5","#Exeter_H5","Exeter","M","Adult","Nobility",NA,NA,NA,"#HenryV_H5",NA,NA,NA,NA,NA,NA
+"326","H5","#Governor_H5","Governor","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327","H5","#MistressQuickly_1H4","MistressQuickly","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","H5","#Montjoy_H5","Montjoy","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","H5","#Orleans_H5","Orleans","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330","H5","#QueenOfFrance_H5","Queen of France","F","Adult","Nobility","Y","Y","#KingOfFrance_H5",NA,NA,NA,NA,NA,NA,NA
+"331","H5","#Rambures_H5","Rambures","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","H5","#Salisbury_H5","Salisbury","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","H5","#Warwick_2H4","Warwick","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334","H5","#Westmoreland_1H4","Westmoreland","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335","H5","#York_H5","York","M","Adult","Nobility",NA,NA,NA,"#HenryV_H5",NA,NA,NA,"Y",4,NA
+"336","H8","#Abergavenny_H8","Abergavenny","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"337","H8","#Anne_H8","Anne","F","Adult","Nobility","N","Y","#HenryVIII_H8",NA,NA,NA,NA,NA,NA,NA
+"338","H8","#BishopOfLincoln_H8","Bishop Of Lincoln","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339","H8","#Buckingham_H8","Buckingham","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"340","H8","#Campeius_H8","Campeius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341","H8","#Chamberlain_H8","Chamberlain","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"342","H8","#Chancellor_H8","Chancellor","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"343","H8","#Gardiner_H8","Gardiner","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"344","H8","#Guilford_H8","Guilford","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345","H8","#Lovell_H8","Lovell","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"346","H8","#Norfolk_H8","Norfolk","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","H8","#Sands_H8","Sands","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","H8","#Suffolk_H8","Suffolk","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349","H8","#Surrey_H8","Surrey","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Norfolk_H8",NA,NA,NA,NA
+"350","H8","#Wolsey_H8","Wolsey","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"351","Ham","#Hamlet_Ham","Hamlet","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Ghost_Ham","#Gertrude_Ham","Y",5,"#Laertes_Ham"
+"352","Ham","#Laertes_Ham","Laertes","M","Young Adult","Nobility",NA,NA,NA,"#Ophelia_Ham",NA,"#Polonius_Ham",NA,"Y",5,"#Hamlet_Ham"
+"353","Ham","#Ophelia_Ham","Ophelia","F","Young Adult","Nobility",NA,NA,NA,"#Laertes_Ham",NA,"#Polonius_Ham",NA,"Y",4,"#Ophelia_Ham"
+"354","Ham","#Osric_Ham","Osric","M","Adult","Nobility",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,NA,NA,NA
+"355","Ham","#Polonius_Ham","Polonius","M","Adult","Nobility",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,"Y",3,"#Hamlet_Ham"
+"356","Jn","#Arthur_Jn","Arthur","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,"#Constance_Jn","Y",4,"#Arthur_Jn"
+"357","Jn","#Bastard_Jn","Bastard","M","Adult","Nobility",NA,NA,NA,"#RobertFaulconbridge_Jn",NA,NA,"#LadyFaulconbridge_Jn",NA,NA,NA
+"358","Jn","#Bigot_Jn","Bigot","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","Jn","#Blanche_Jn","Blanche","F","Young Adult","Nobility",NA,"Y","#Dauphin_Jn",NA,NA,NA,NA,NA,NA,NA
+"360","Jn","#Chatillion_Jn","Chantillion","M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"361","Jn","#Constance_Jn","Constance","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",4,NA
+"362","Jn","#Essex_Jn","Essex","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363","Jn","#LadyFaulconbridge_Jn","Lady Faulconbridge","F","Adult","Nobility","Y","Y","#KingPhilip_Jn",NA,NA,NA,NA,NA,NA,NA
+"364","Jn","#Melun_Jn","Melun","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",5,NA
+"365","Jn","#Pembroke_Jn","Pembroke","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","Jn","#RobertFaulconbridge_Jn","Robert Faulconbridge","M","Adult","Nobility",NA,NA,NA,"#Bastard_Jn",NA,NA,"#LadyFaulconbridge_Jn",NA,NA,NA
+"367","Jn","#Salisbury_Jn","Salisbury","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","Jn","#Shallow_2H4","Shallow","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369","LLL","#Armado_LLL","Armado","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"370","LLL","#Berowne_LLL","Berowne",NA,"Young Adult","Nobility",NA,NA,NA,NA,"#King_LLL",NA,NA,NA,NA,NA
+"371","LLL","#Boyet_LLL","Boyet","M","Young Adult","Nobility",NA,NA,NA,NA,"#Princess_LLL",NA,NA,NA,NA,NA
+"372","LLL","#Dumaine_LLL","Dumaine","M","Young Adult","Nobility",NA,NA,NA,NA,"#King_LLL",NA,NA,NA,NA,NA
+"373","LLL","#Katherine_LLL","Katherine","F","Young Adult","Nobility",NA,NA,NA,NA,"#Princess_LLL",NA,NA,NA,NA,NA
+"374","LLL","#Longaville_LLL","Longaville","M","Young Adult","Nobility",NA,NA,NA,NA,"#King_LLL",NA,NA,NA,NA,NA
+"375","LLL","#Maria_LLL","Maria","F","Young Adult","Nobility",NA,NA,NA,NA,"#Princess_LLL",NA,NA,NA,NA,NA
+"376","LLL","#Rosaline_LLL","Rosaline","F","Young Adult","Nobility",NA,NA,NA,NA,"#Princess_LLL",NA,NA,NA,NA,NA
+"377","Lr","#Albany_Lr","Duke of Albany","M","Young Adult","Nobility","Y","Y","#Goneril_Lr",NA,NA,NA,NA,NA,NA,NA
+"378","Lr","#Burgundy_Lr","Burgundy","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"379","Lr","#Curan_Lr","Curan","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380","Lr","#Edgar_Lr","Edgar","M","Young Adult","Nobility",NA,NA,NA,"#Edmund_Lr",NA,"#Gloucester_Lr",NA,NA,NA,NA
+"381","Lr","#Edmund_Lr","Edmund","M","Young Adult","Nobility",NA,NA,NA,"#Edgar_Lr",NA,"#Gloucester_Lr",NA,"Y",5,"#Edgar_Lr"
+"382","Lr","#Gloucester_Lr","Gloucester","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","Mac","#Angus_Mac","Angus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","Mac","#Banquo_Mac","Banquo","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#Macbeth_Mac"
+"385","Mac","#Caithness_Mac","Caithness","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","Mac","#Donalbain_Mac","Donalbain","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Duncan_Mac",NA,NA,NA,NA
+"387","Mac","#Fleance_Mac","Fleance","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","Mac","#LadyMacduff_Mac","Lady Macduff","F","Adult","Nobility","Y","Y","#Macduff_Mac",NA,NA,NA,NA,"Y",4,"#Macbeth_Mac"
+"389","Mac","#Lennox_Mac","Lennox","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","Mac","#Lord_Mac","Lord","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","Mac","#Macduff_Mac","Macduff","M","Adult","Nobility","Y","Y","#LadyMacduff_Mac",NA,NA,NA,NA,NA,NA,NA
+"392","Mac","#MacduffsSon_Mac","Macduff's Son","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Macduff_Mac",NA,"Y",4,"#Macbeth_Mac"
+"393","Mac","#Malcolm_Mac","Malcom","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Duncan_Mac",NA,NA,NA,NA
+"394","Mac","#Menteith_Mac","Menteith","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"395","Mac","#Ross_Mac","Ross","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","Mac","#Siward_Mac","Siward","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","Mac","#YoungSiward_Mac","Young Siward","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Siward_Mac",NA,"Y",5,"#Macbeth_Mac"
+"398","MM","#Angelo_MM","Angelo","M","Young Adult","Nobility","N","Y","#Mariana_MM",NA,NA,NA,NA,NA,NA,NA
+"399","MM","#Escalus_MM","Escalus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","MM","#Lucio_MM","Lucio","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","MND","#Egeus_MND","Egeus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"402","MND","#Hermia_MND","Hermia","F","Young Adult","Nobility",NA,"Y","#Lysander_MND",NA,NA,"#Egeus_MND",NA,NA,NA,NA
+"403","MND","#Theseus_MND","Theseus","M","Adult","Nobility",NA,"Y","#Hippolyta_MND",NA,NA,NA,NA,NA,NA,NA
+"404","MV","#Duke_MV","Duke","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405","MV","#Portia_MV","Portia","F","Young Adult","Nobility",NA,"Y","#Bassanio_MV",NA,NA,NA,NA,NA,NA,NA
+"406","Oth","#Brabantio_Oth","Brabantio","M","Adult","Nobility",NA,NA,NA,"#Gratiano_Oth",NA,NA,NA,NA,NA,NA
+"407","Oth","#Desdemona_Oth","Desdemona","F","Young Adult","Nobility","Y","Y","#Othello_Oth",NA,NA,"#Brabantio_Oth",NA,"Y",5,"#Othello_Oth"
+"408","Oth","#Gratiano_Oth","Gratiano","M","Adult","Nobility",NA,NA,NA,"#Brabantio_Oth",NA,NA,NA,NA,NA,NA
+"409","Oth","#Lodovico_Oth","Lodovico","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","Oth","#Montano_Oth","Montano","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","Oth","#Othello_Oth","Othello","M","Young Adult","Nobility","Y","Y","#Desdemona_Oth",NA,NA,NA,NA,"Y",5,"#Othello_Oth"
+"412","Oth","#SENATORS.0.1_Oth","Senators","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","Oth","#SENATORS.0.2_Oth","Senators","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","Per","#Cleon_Per","Cleon","M","Adult","Nobility","Y","Y","#Dionyza_Per",NA,NA,NA,NA,NA,NA,NA
+"415","Per","#Dionyza_Per","Dionyza","F","Adult","Nobility","Y","Y","#Cleon_Per",NA,NA,NA,NA,NA,NA,NA
+"416","Per","#Helicanus_Per","Helicanus","M",NA,"Nobility",NA,NA,NA,NA,"#Pericles_Per",NA,NA,NA,NA,NA
+"417","Per","#Lysimachus_Per","Lysimachus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","Per","#Marina_Per","Marina","F","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Pericles_Per","#Thaisa_Per",NA,NA,NA
+"419","Per","#Thaliard_Per","Thailard","M","Adult","Nobility",NA,NA,NA,NA,"#Antiochus_Per",NA,NA,NA,NA,NA
+"420","R2","#AbbotOfWestminster_R2",NA,"M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","R2","#Aumerle_R2","Aumerle","M",NA,"Nobility",NA,NA,NA,NA,NA,"#York_R2","#DuchessOfYork_R2",NA,NA,NA
+"422","R2","#Bagot_R2","Bagot","M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"423","R2","#Berkeley_R2","Berkeley","M",NA,"Nobility",NA,NA,NA,NA,"#York_R2",NA,NA,NA,NA,NA
+"424","R2","#BishopOfCarlisle_R2",NA,"M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"425","R2","#Bushy_R2","Bushy","M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"426","R2","#DuchessOfGloucester_R2",NA,"F",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"427","R2","#DuchessOfYork_R2",NA,"F",NA,"Nobility","Y","Y","#York_R2",NA,NA,NA,NA,NA,NA,NA
+"428","R2","#Exton_R2","Exton","M",NA,"Nobility",NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA,NA
+"429","R2","#Falstaff_1H4","John Falstaff","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"430","R2","#Green_R2","Green","M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"431","R2","#Hotspur_R2","Hotspur","M","Young Adult","Nobility",NA,NA,NA,NA,"#HenryIV_1H4","#Northumberland_R2",NA,NA,NA,NA
+"432","R2","#Hotspur_R2","Hotspur (Harry Percy)","M","Adult","Nobility","Y","Y","#LadyPercy_1H4",NA,NA,"#Worcester_1H4",NA,NA,NA,NA
+"433","R2","#LordMarshal_R2",NA,"M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","R2","#LORDS.1_R2",NA,"M",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","R2","#Mowbray_R2","Mowbray","M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,"Y",4,NA
+"436","R2","#Northumberland_R2","Northumberland","M",NA,"Nobility",NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA,NA
+"437","R2","#Northumberland_R2","Henry Percy","M","Adult","Nobility",NA,NA,NA,"#Worcester_1H4",NA,NA,NA,"Y",5,"#HenryV_H5"
+"438","R2","#Poins_1H4","Ned Poins","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","R2","#Ross_R2","Ross","M",NA,"Nobility",NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA,NA
+"440","R2","#Salisbury_R2","Salisbury","M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"441","R2","#Scroop_R2","Scroop","M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"442","R2","#Surrey_R2","Surrey","M",NA,"Nobility",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"443","R2","#Westmoreland_1H4","Ralph Neville","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444","R2","#Willoughby_R2","Willoughby","M",NA,"Nobility",NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA,NA
+"445","R2","#Worcester_1H4","Thomas Percy","M","Adult","Nobility",NA,NA,NA,"#Northumberland_R2",NA,NA,NA,"Y",5,"#HenryIV_1H4"
+"446","R2","#York_R2","York","M",NA,"Nobility","Y","Y","#DuchessOfYork_R2","#Gaunt_R2","#HenryIV_1H4",NA,NA,NA,NA,NA
+"447","R3","#Blunt_R3","Sir James Blunt","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVII_R3",NA,NA,NA,NA,NA
+"448","R3","#Buckingham_R3","Duke of Buckingham","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#RichardIII_R3"
+"449","R3","#Catesby_R3","Sir William Catesby","M","Adult","Nobility",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"450","R3","#Clarence_3H6","Clarence","M","Adult","Nobility",NA,NA,NA,"#EdwardIV_3H6;#RichardIII_R3",NA,NA,"#DuchessOfYork_R3","Y",1,"#RichardIII_R3"
+"451","R3","#ClarencesBoy_R3","Boy","M","Young Adult","Nobility",NA,NA,NA,"#ClarencesDaughter_R3",NA,"#Clarence_3H6",NA,NA,NA,NA
+"452","R3","#ClarencesDaughter_R3","Daughter","F","Young Adult","Nobility",NA,NA,NA,"#ClarencesBoy_R3",NA,"#Clarence_3H6",NA,NA,NA,NA
+"453","R3","#Dorset_R3","Marquess of Dorset","M","Adult","Nobility",NA,NA,NA,"#Grey_R3",NA,NA,"#QueenElizabeth_3H6",NA,NA,NA
+"454","R3","#DuchessOfYork_R3","Dutchess of York","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","R3","#EdwardIV_3H6","King Edward IV","M","Adult","Nobility","Y","Y",NA,"#RichardIII_R3;#Clarence_3H6",NA,NA,"#DuchessOfYork_R3","Y",2,NA
+"456","R3","#EdwardV_R3","Prince Edward","M","Young Adult","Nobility",NA,NA,NA,"#York_R3",NA,"#EdwardIV_3H6","#QueenElizabeth_3H6","Y",4,"#RichardIII_R3"
+"457","R3","#Grey_R3","Lord Grey","M","Adult","Nobility",NA,NA,NA,"#Dorset_R3",NA,NA,"#QueenElizabeth_3H6","Y",3,"#RichardIII_R3"
+"458","R3","#Hastings_3H6","William Lord Hastings","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,3,"#RichardIII_R3"
+"459","R3","#HenryVI_1H6","Ghost of Henry VI","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","R3","#HenryVII_R3","Earl of Richmond/ Henry VII","M","Adult","Nobility",NA,NA,NA,NA,NA,"#Stanley_R3",NA,NA,NA,NA
+"461","R3","#Herbert_R3","Sir Walter Herbert","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVII_R3",NA,NA,NA,NA,NA
+"462","R3","#LadyAnne_R3","Lady Anne","F","Young Adult","Nobility","Y","Y","#RichardIII_R3",NA,NA,NA,"#QueenMargaret_1H6","Y",4,"#RichardIII_R3"
+"463","R3","#Lovell_R3","Lord Lovell","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","R3","#MayorOfLondon_R3","Lord Mayor","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","R3","#Norfolk_R3","Duke of Norfolk","M","Adult","Nobility",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"466","R3","#Oxford_3H6","Earl of Oxford","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVII_R3",NA,NA,NA,NA,NA
+"467","R3","#PrinceEdward_3H6","Ghost of Edward","M","Young Adult","Nobility",NA,NA,NA,"#York_R3",NA,"#EdwardIV_3H6","#QueenElizabeth_3H6",NA,NA,NA
+"468","R3","#QueenElizabeth_3H6","Queen Elizabeth","F","Adult","Nobility","Y","Y","#EdwardIV_3H6",NA,NA,NA,NA,NA,NA,NA
+"469","R3","#QueenMargaret_1H6","Queen Margaret","F","Adult","Nobility","Y","Y",NA,NA,NA,NA,NA,NA,NA,NA
+"470","R3","#Ratcliffe_R3","Sir Richard Ratcliffe","M","Adult","Nobility",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"471","R3","#RichardIII_R3","Richard","M","Adult","Nobility",NA,"Y","#LadyAnne_R3","#EdwardIV_3H6;#Clarence_3H6",NA,NA,"#DuchessOfYork_R3","Y",5,"#HenryVII_R3"
+"472","R3","#Rivers_3H6","Earl Rivers","M","Adult","Nobility",NA,NA,NA,"#QueenElizabeth_3H6",NA,NA,NA,"Y",3,"#RichardIII_R3"
+"473","R3","#Stanley_R3","Lord Stanley","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","R3","#Surrey_R3","Earl of Surrey","M","Adult","Nobility",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"475","R3","#Vaughan_R3","Sir Thomas Vaughan","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#RichardIII_R3"
+"476","R3","#York_R3","Richard;Duke of York","M","Young Adult","Nobility",NA,NA,NA,"#EdwardV_R3",NA,"#EdwardIV_3H6","#QueenElizabeth_3H6","Y",4,"#RichardIII_R3"
+"477","Rom","#Benvolio_Rom","Benvolio","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","Rom","#Capulet_Rom","Capulet","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","Rom","#Cousin_Rom",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","Rom","#Juliet_Rom","Juliet","F","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Capulet_Rom","#LadyCapulet_Rom","Y",5,"#Juliet_Rom"
+"481","Rom","#LadyCapulet_Rom","Lady Capulet","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","Rom","#LadyMontague_Rom","Lady Montague","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","Rom","#Mercutio_Rom","Mercutio","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#Tybalt_Rom"
+"484","Rom","#Montague_Rom","Montague","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","Rom","#Paris_Rom","Paris","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#Romeo_Rom"
+"486","Rom","#Romeo_Rom","Romeo","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Montague_Rom","#LadyMontague_Rom","Y",5,"#Romeo_Rom"
+"487","Rom","#Tybalt_Rom","Tybalt","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#Romeo_Rom"
+"488","Shr","#Baptista_Shr","Baptista Minola","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","Shr","#Bianca_Shr","Bianca Minola","F","Young Adult","Nobility",NA,NA,NA,"#Katherine_Shr",NA,"#Baptista_Shr",NA,NA,NA,NA
+"490","Shr","#Gremio_Shr","Gremio","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","Shr","#Hortensio_Shr","Hortensio","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","Shr","#Katherine_Shr","Kate Minola ""shrew""","F","Young Adult","Nobility","N","Y","#Petruchio_Shr","#Bianca_Shr",NA,"#Baptista_Shr",NA,NA,NA,NA
+"493","Shr","#Lucentio_Shr","Lucentio","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Vincentio_Shr",NA,NA,NA,NA
+"494","Shr","#Petruchio_Shr","Petruchio","M","Young Adult","Nobility","N","Y","#Katherine_Shr",NA,NA,NA,NA,NA,NA,NA
+"495","Shr","#Vincentio_Shr","Vincentio","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","Shr","#Widow_Shr","Widow","F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","TGV","#Duke_TGV","Duke","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","TGV","#Sylvia_TGV","Sylvia","F","Young Adult","Nobility",NA,"Y","#Valentine_TGV",NA,NA,"#Duke_TGV",NA,NA,NA,NA
+"499","Tim","#FRIENDS.Lucius_Tim","Lucius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"500","Tim","#FRIENDS.Lucullus_Tim","Lucullus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","Tim","#FRIENDS.Sempronius_Tim","Sempronius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"502","Tim","#FRIENDS.Ventidius_Tim","Ventidius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","Tim","#LORDS.0.1_Tim","Camillo","M","Young Adult","Nobility",NA,NA,NA,NA,"#Leontes_WT",NA,NA,NA,NA,NA
+"504","Tim","#LORDS.0.2_Tim","Cleomenes","M","Young Adult","Nobility",NA,NA,NA,NA,"#Leontes_WT",NA,NA,NA,NA,NA
+"505","Tim","#SERVANTS.ISIDORE.1_Tim","Isidore's Man","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","Tim","#SERVANTS.VARRO.1_Tim","Varro","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","Tim","#Timon_Tim","Timon","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#Timon_Tim"
+"508","Tit","#Aemilius_Tit","Aemilius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","Tit","#Chiron_Tit","Chiron","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,"#Tamora_Tit","Y",5,"#Titus_Tit"
+"510","Tit","#Demetrius_Tit","Demitrius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,"#Tamora_Tit","Y",5,"#Titus_Tit"
+"511","Tit","#Lavinia_Tit","Lavinia","F","Adult","Nobility",NA,NA,NA,NA,NA,"#Titus_Tit",NA,"Y",5,"#Titus_Tit"
+"512","Tit","#Marcus_Tit","Marcus","M","Adult","Nobility",NA,NA,NA,"#Titus_Tit",NA,NA,NA,NA,NA,NA
+"513","Tit","#Martius_Tit","Matrius","M","Adult","Nobility",NA,NA,NA,NA,NA,"#Titus_Tit",NA,"Y",2,"#Saturninus_Tit"
+"514","Tit","#Mutius_Tit","Mutius","M","Adult","Nobility",NA,NA,NA,NA,NA,"#Titus_Tit",NA,"Y",2,"#Titus_Tit"
+"515","Tit","#Quintus_Tit","Quintus","M","Adult","Nobility",NA,NA,NA,NA,NA,"#Titus_Tit",NA,"Y",2,"#Saturninus_Tit"
+"516","Tit","#Titus_Tit","Titus","M","Adult","Nobility",NA,NA,NA,"#Marcus_Tit",NA,NA,NA,"Y",5,"#Saturninus_Tit"
+"517","Tmp","#Antonio_Tmp","Antonio","M","Adult","Nobility",NA,NA,NA,"#Prospero_Tmp",NA,NA,NA,NA,NA,NA
+"518","Tmp","#Ferdinand_Tmp","Ferdinand","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Alonso_Tmp",NA,NA,NA,NA
+"519","Tmp","#Miranda_Tmp","Miranda","F","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Prospero_Tmp",NA,NA,NA,NA
+"520","Tmp","#Prospero_Tmp","Prospero","M","Adult","Nobility",NA,NA,NA,"#Antonio_Tmp",NA,NA,NA,NA,NA,NA
+"521","Tmp","#Sebastian_Tmp","Sebastian","M","Adult","Nobility",NA,NA,NA,"#Alonso_Tmp",NA,NA,NA,NA,NA,NA
+"522","TN","#AndrewAguecheek_TN","Andrew Aguecheek","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","TN","#Olivia_TN","Olivia","F","Young Adult","Nobility",NA,"Y","#Sebastian_TN",NA,NA,NA,NA,NA,NA,NA
+"524","TN","#Orsino_TN","Orsino","M","Adult","Nobility",NA,"Y","#Viola_TN",NA,NA,NA,NA,NA,NA,NA
+"525","TN","#TobyBelch_TN","Toby Belch","M","Adult","Nobility",NA,"Y","#Maria_TN",NA,NA,NA,NA,NA,NA,NA
+"526","Tro","#Achilles_Tro","Achilles","M","Young Adult","Nobility","N","N",NA,NA,"#Agamemnon_Tro",NA,NA,"N",NA,NA
+"527","Tro","#Aeneas_Tro","Aeaneas","M","Young Adult","Nobility","N","N",NA,NA,"#Priam_Tro",NA,NA,"N",NA,NA
+"528","Tro","#Ajax_Tro","Ajax","M","Young Adult","Nobility","N","N",NA,NA,"#Agamemnon_Tro",NA,NA,"N",NA,NA
+"529","Tro","#Andromache_Tro","Andromache","F","Adult","Nobility","Y","Y","#Hector_Tro",NA,"#Priam_Tro",NA,NA,"N",NA,NA
+"530","Tro","#Antenor_Tro","Antenor","M","Adult","Nobility","N","N",NA,NA,"#Priam_Tro",NA,NA,"N",NA,NA
+"531","Tro","#Bastard_Tro","Margarelon","M","Young Adult","Nobility","N","N",NA,"#Troilus_Tro;#Cassandra_Tro;#Hector_Tro;#Paris_Tro;#Deiphobus_Tro;#Helenus_Tro","#Priam_Tro","#Priam_Tro",NA,"N",NA,NA
+"532","Tro","#Calchas_Tro","Calchas","M","Adult","Nobility","N","N",NA,"#Pandarus_Tro","#Agamemnon_Tro",NA,NA,"N",NA,NA
+"533","Tro","#Cassandra_Tro","Cassandra","F","Young Adult","Nobility","N","N",NA,"#Troilus_Tro;#Hector_Tro;#Paris_Tro;#Deiphobus_Tro;#Helenus_Tro;","#Priam_Tro","#Priam_Tro",NA,"N",NA,NA
+"534","Tro","#Cressida_Tro","Cressida","F","Young Adult","Nobility","N","N",NA,NA,"#Priam_Tro","#Calchas_Tro",NA,"N",NA,NA
+"535","Tro","#Deiphobus_Tro","Deiphobus","M","Young Adult","Nobility","N","N",NA,"#Troilus_Tro;#Cassandra_Tro;#Hector_Tro;#Paris_Tro;#Helenus_Tro;","#Priam_Tro","#Priam_Tro",NA,"N",NA,NA
+"536","Tro","#Diomedes_Tro","Diomedes","M","Young Adult","Nobility","N","N",NA,NA,"#Agamemnon_Tro",NA,NA,"N",NA,NA
+"537","Tro","#Hector_Tro","Hector","M","Adult","Nobility","Y","Y","#Andromache_Tro","#Troilus_Tro;#Cassandra_Tro;#Paris_Tro;#Deiphobus_Tro;#Helenus_Tro;","#Priam_Tro","#Priam_Tro",NA,"Y",5,NA
+"538","Tro","#Helen_Tro","Helen","F","Young Adult","Nobility","Y","Y","#Menelaus_Tro",NA,NA,NA,NA,"N",NA,NA
+"539","Tro","#Helenus_Tro","Helenus","M","Young Adult","Nobility","N","N",NA,"#Troilus_Tro;#Cassandra_Tro;#Hector_Tro;#Paris_Tro;#Deiphobus_Tro;","#Priam_Tro","#Priam_Tro",NA,"N",NA,NA
+"540","Tro","#Menelaus_Tro","Menelaus","M","Adult","Nobility","Y","Y","#Helen_Tro","#Agamemnon_Tro","#Agamemnon_Tro",NA,NA,"N",NA,NA
+"541","Tro","#Nestor_Tro","Nestor","M","Elderly","Nobility","N","N",NA,NA,"#Agamemnon_Tro",NA,NA,"N",NA,NA
+"542","Tro","#Pandarus_Tro","Pandarus","M","Adult","Nobility","N","N",NA,"#Calchas_Tro","#Priam_Tro",NA,NA,"N",NA,NA
+"543","Tro","#Paris_Tro","Paris","M","Young Adult","Nobility","N","N",NA,"#Troilus_Tro;#Cassandra_Tro;#Hector_Tro;#Deiphobus_Tro;#Helenus_Tro;","#Priam_Tro","#Priam_Tro",NA,"N",NA,NA
+"544","Tro","#Patroclus_Tro","Patroclus","M","Young Adult","Nobility","N","N",NA,NA,"#Achilles_Tro",NA,NA,"Y",5,NA
+"545","Tro","#Troilus_Tro","Troilus","M","Young Adult","Nobility","N","N",NA,"#Cassandra_Tro;#Hector_Tro;#Paris_Tro;#Deiphobus_Tro;#Helenus_Tro;","#Priam_Tro","#Priam_Tro",NA,"N",NA,NA
+"546","Tro","#Ulysses_Tro","Ulysses","M","Adult","Nobility","Y","Y",NA,NA,"#Agamemnon_Tro",NA,NA,"N",NA,NA
+"547","Wiv","#Falstaff_1H4","Falstaff","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","Wiv","#HughEvans_Wiv","Hugh Evans","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549","WT","#Antigonus_WT","Antigonus","M","Young Adult","Nobility",NA,NA,"#Paulina_WT",NA,"#Leontes_WT",NA,NA,NA,NA,NA
+"550","WT","#Archidamus_WT","Archimadus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","WT","#Camillo_WT","Camillo","M","Adult","Nobility",NA,NA,NA,NA,"#Leontes_WT",NA,NA,NA,NA,NA
+"552","WT","#Cleomenes_WT","Cleomenes","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","WT","#Dion_WT","Dion","M","Young Adult","Nobility",NA,NA,NA,NA,"#Leontes_WT",NA,NA,NA,NA,NA
+"554","WT","#Florizell_WT","Florizell","M","Young Adult","Nobility",NA,"Y","#Perdita_WT",NA,NA,"#Polixenes_WT",NA,NA,NA,NA
+"555","WT","#LADIES.Emilia_WT","Emilia","F","Young Adult","Nobility",NA,NA,NA,NA,"#Hermione_WT",NA,NA,NA,NA,NA
+"556","WT","#Mamillius_WT","Mamilius","M","Young Adult","Nobility",NA,NA,NA,"#Perdita_WT","#Leontes_WT","#Hermione_WT",NA,"Y",NA,NA
+"557","WT","#Paulina_WT","Paulina","F","Young Adult","Nobility","Y","Y","#Antigonus_WT",NA,"#Hermione_WT",NA,NA,NA,NA,NA
+"558","WT","#Perdita_WT","Perdita","F","Young Adult","Nobility",NA,"Y","#Florizell_WT","#Mamillius_WT",NA,"#Leontes_WT","#Hermione_WT",NA,NA,NA
+"559","JC","#Antony_JC","Antony","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","JC","#Brutus_JC","Brutus","M","Adult","Nobility","Y","Y","#Portia_JC",NA,NA,NA,NA,"Y",5,"#Brutus_JC"
+"561","JC","#Calphurnia_JC","Calphurnia","F","Adult","Nobility","Y","Y","#Caesar_JC",NA,NA,NA,NA,NA,NA,NA
+"562","JC","#Casca_JC","Casca","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","JC","#Cassius_JC","Cassius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#Cassius_JC"
+"564","JC","#Cicero_JC","Cicero","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,"Y",NA,NA
+"565","JC","#Cinna_JC","Cinna","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","JC","#Decius_JC","Decius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"567","JC","#Lepidus_JC","Lepidus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","JC","#Ligarius_JC","Ligarius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","JC","#Metellus_JC","Metellus","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570","JC","#Octavius_JC","Octavius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","JC","#Popilius_JC","Popilius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","JC","#Portia_JC","Portia","F","Adult","Nobility","Y","Y","#Brutus_JC",NA,NA,NA,NA,"Y",4,"#Portia_JC"
+"573","JC","#Publius_JC","Publius","M","Elderly","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","JC","#Trebonius_JC","Trebonius","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","JC","#Artemidorus_JC","Artemidorus","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","JC","#CinnaPoet_JC","Cinna the Poet","M",NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#PLEBEIANS_JC"
+"577","JC","#COMMONERS.Carpenter_JC",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","JC","#COMMONERS.Cobbler_JC",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","JC","#Flavius_JC","Flavius","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"580","JC","#Marullus_JC","Marullus","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","JC","#Messenger_JC","Messenger","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"582","JC","#PLEBEIANS_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","JC","#PLEBEIANS.0.1_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","JC","#PLEBEIANS.0.2_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","JC","#PLEBEIANS.0.3_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","JC","#PLEBEIANS.0.4_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","JC","#Poet_JC","Poet","M",NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","JC","#SOLDIERS.ANTONY.0.1_JC",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","JC","#SOLDIERS.ANTONY.0.2_JC",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","JC","#SOLDIERS.BRUTUS.0.1_JC",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","JC","#SOLDIERS.BRUTUS.0.2_JC",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"592","JC","#SOLDIERS.BRUTUS.0.3_JC",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","JC","#SOLDIERS.BRUTUS.Cato_JC","Cato","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","JC","#SOLDIERS.BRUTUS.Claudius_JC","Claudius","M","Adult","Servant",NA,NA,NA,NA,"#Brutus_JC",NA,NA,NA,NA,NA
+"595","JC","#SOLDIERS.BRUTUS.Clitus_JC","Clitus","M","Adult","Servant",NA,NA,NA,NA,"#Brutus_JC",NA,NA,NA,NA,NA
+"596","JC","#SOLDIERS.BRUTUS.Dardanus_JC","Dardanus","M","Adult","Servant",NA,NA,NA,NA,"#Brutus_JC",NA,NA,NA,NA,NA
+"597","JC","#SOLDIERS.BRUTUS.Lucilius_JC","Lucilius","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","JC","#SOLDIERS.BRUTUS.Messala_JC","Messala","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","JC","#SOLDIERS.BRUTUS.Strato_JC","Strato","M","Adult","Servant",NA,NA,NA,NA,"#Brutus_JC;#Octavius_JC",NA,NA,NA,NA,NA
+"600","JC","#SOLDIERS.BRUTUS.Titinius_JC","Titinius","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,"Y",5,"#SOLDIERS.BRUTUS.Titinius_JC"
+"601","JC","#SOLDIERS.BRUTUS.Varro_JC","Varro","M","Adult","Servant",NA,NA,NA,NA,"#Brutus_JC",NA,NA,NA,NA,NA
+"602","JC","#SOLDIERS.BRUTUS.Volumnius_JC","Volumnius","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","JC","#Soothsayer_JC","Soothsayer","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","MM","#Barnardine_MM","Barnardine","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","1H6","#Bedford_H5","Bedford","M","Adult","Royalty",NA,NA,NA,"#Gloucester_2H4",NA,NA,NA,"Y",NA,"#SOLDIERS.FRENCH.PUCELLE.0.1_1H6"
+"606","1H6","#Gloucester_2H4","Gloucester","M","Adult","Royalty",NA,NA,NA,"#Bedford_H5",NA,NA,NA,NA,NA,NA
+"607","1H6","#Reignier_1H6","Reignier","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"608","2H4","#HenryIV_1H4","Henry IV","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,"Y",5,NA
+"609","2H4","#HenryV_H5","Henry V","M","Young Adult","Royalty",NA,NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA
+"610","3H6","#EdwardIV_3H6","Edward IV","M","Young Adult","Royalty","N","Y","#QueenElizabeth_3H6",NA,NA,"#York_1H6","#QueenMargaret_1H6",NA,NA,NA
+"611","3H6","#HenryIV_1H4","Henry IV","M","Adult","Royalty",NA,NA,NA,NA,NA,"#Gaunt_R2",NA,NA,NA,NA
+"612","3H6","#HenryVI_1H6","Henry VI","M","Adult","Royalty","Y","Y","#QueenMargaret_1H6",NA,NA,NA,NA,"Y",5,"#RichardIII_R3"
+"613","3H6","#KingLewis_3H6","Lewis","M","Adult","Royalty",NA,NA,NA,"#LadyBona_3H6",NA,NA,NA,NA,NA,NA
+"614","3H6","#PrinceEdward_3H6","Edward","M","Young Adult","Royalty",NA,NA,NA,NA,NA,"#HenryVI_1H6",NA,"Y",5,"#EdwardIV_3H6;#RichardIII_R3;#Clarence_3H6"
+"615","3H6","#QueenElizabeth_3H6","Elizabeth","F","Young Adult","Royalty","N","Y","#PrinceEdward_3H6","#Rivers_3H6",NA,NA,NA,NA,NA,NA
+"616","3H6","#QueenMargaret_1H6","Margaret","F","Adult","Royalty","Y","Y","#HenryVI_1H6",NA,NA,NA,NA,NA,NA,NA
+"617","3H6","#RichardII_R2","Richard II","M","Adult","Royalty","Y","Y","#Queen_R2",NA,NA,NA,NA,"Y",5,"#Exton_R2"
+"618","Ado","#DonPedro_Ado","Don Pedro","M","Young Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","Ant","#Cleopatra_Ant","Cleopatra","F","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,"Y",5,NA
+"620","Cym","#Cymbeline_Cym","Cymbeline","M","Adult","Royalty","Y","N","#Queen_Cym",NA,NA,NA,NA,"N",NA,NA
+"621","Cym","#Jupiter_Cym","Jupiter","M","Elderly","Royalty","Y","Y",NA,NA,NA,NA,NA,"N",NA,NA
+"622","Cym","#Queen_Cym","Queen","F","Adult","Royalty","Y","N","#Cymbeline_Cym",NA,NA,NA,NA,"Y",5,NA
+"623","H5","#HenryV_H5","Henry V","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","H5","#KingOfFrance_H5","KingOfFrance","M","Adult","Royalty","Y","Y","#QueenOfFrance_H5",NA,NA,NA,NA,NA,NA,NA
+"625","H8","#HenryVIII_H8","HenryVIII","M","Adult","Royalty","Y","Y","#Katherine_H8;#Anne_H8",NA,NA,NA,NA,NA,NA,NA
+"626","H8","#Katherine_H8","Katherine","F","Adult","Royalty","Y","N","#HenryVIII_H8",NA,NA,NA,NA,NA,NA,NA
+"627","Ham","#Claudius_Ham","Claudius","M","Adult","Royalty","Y","Y","#Gertrude_Ham",NA,NA,NA,NA,"Y",5,"#Hamlet_Ham"
+"628","Ham","#Fortinbras_Ham","Fortinbras","M","Young Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","Ham","#Gertrude_Ham","Gertrude","F","Adult","Royalty","Y","Y","#Claudius_Ham",NA,NA,NA,NA,"Y",5,NA
+"630","Ham","#Ghost_Ham","Ghost","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","JC","#Caesar_JC","Caesar","M","Adult","Royalty","Y","Y","#Calphurnia_JC",NA,NA,NA,NA,"Y",3,"#Casca_JC;#Decius_JC;#Cinna_JC;#Cassius_JC;#Metellus_JC;#Brutus_JC;#Ligarius_JC"
+"632","Jn","#Dauphin_Jn","Dauphin","M","Young Adult","Royalty",NA,"Y","#Blanche_Jn",NA,NA,"#KingPhilip_Jn",NA,NA,NA,NA
+"633","Jn","#KingJohn_Jn","King John","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,"#QueenEleanor_Jn","Y",5,NA
+"634","Jn","#KingPhilip_Jn","King Philip","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"635","Jn","#PrinceHenry_Jn","Prince Henry","M","Young Adult","Royalty",NA,NA,NA,NA,NA,"#KingJohn_Jn",NA,NA,NA,NA
+"636","Jn","#QueenEleanor_Jn","Queen Elanor","F","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,"Y",4,NA
+"637","LLL","#King_LLL","Ferdinand","M","Young Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","LLL","#Princess_LLL","Princess of France","F","Young Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","Lr","#Cordelia_Lr","Cordelia","F","Young Adult","Royalty","N","Y","#France_Lr","#Regan_Lr;#Goneril_Lr",NA,"#Lear_Lr",NA,"Y",5,"#Edmund_Lr"
+"640","Lr","#Cornwall_Lr","Cornwall","M","Young Adult","Royalty","Y","Y","#Regan_Lr",NA,NA,NA,NA,NA,NA,NA
+"641","Lr","#France_Lr","King of France","M","Adult","Royalty","N","Y","#Cordelia_Lr",NA,NA,NA,NA,NA,NA,NA
+"642","Lr","#Goneril_Lr","Goneril","F","Young Adult","Royalty","Y","Y","#Albany_Lr","#Cordelia_Lr;#Regan_Lr",NA,"#Lear_Lr",NA,"Y",5,"#Goneril_Lr"
+"643","Lr","#Lear_Lr","King Lear","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,"Y",5,NA
+"644","Lr","#Regan_Lr","Regan","F","Young Adult","Royalty","Y","Y","#Cornwall_Lr","#Cordelia_Lr;#Goneril_Lr",NA,"#Lear_Lr",NA,"Y",5,NA
+"645","Mac","#Duncan_Mac","Duncan","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,"Y",2,"#Macbeth_Mac"
+"646","Mac","#LadyMacbeth_Mac","Lady Macbeth","F","Adult","Royalty","Y","Y","#Macbeth_Mac",NA,NA,NA,NA,"Y",5,"#LadyMacbeth_Mac"
+"647","Mac","#Macbeth_Mac","Macbeth","M","Adult","Royalty","Y","Y","#LadyMacbeth_Mac",NA,NA,NA,NA,"Y",5,"#Macduff_Mac"
+"648","MM","#Duke_MM","Vincentio","M","Young Adult","Royalty","N","Y","#Isabella_MM",NA,NA,NA,NA,NA,NA,NA
+"649","MND","#Hippolyta_MND","Hippolyta","F","Adult","Royalty",NA,"Y","#Theseus_MND",NA,NA,NA,NA,NA,NA,NA
+"650","MND","#Oberon_MND","Oberon","M","Adult","Royalty","Y","Y","#Titania_MND",NA,NA,NA,NA,NA,NA,NA
+"651","MND","#Titania_MND","Titania","F","Adult","Royalty","Y","Y","#Oberon_MND",NA,NA,NA,NA,NA,NA,NA
+"652","MV","#Arragon_MV","Arragon","M","Young Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","MV","#Morocco_MV","Morocco","M","Young Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","Oth","#Duke_Oth","Duke","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"655","Per","#Antiochus_Per","Antiochus","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","Per","#Pericles_Per","Pericles","M","Young Adult","Royalty",NA,"Y","#Thaisa_Per",NA,NA,NA,NA,NA,NA,NA
+"657","Per","#Simonides_Per","Simonides","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","Per","#Thaisa_Per","Thaisa","F","Young Adult","Royalty",NA,"Y","#Pericles_Per",NA,NA,"#Simonides_Per",NA,NA,NA,NA
+"659","R2","#HenryIV_1H4","HenryIV","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"660","R2","#HenryV_H5","HenryV","M","Young Adult","Royalty",NA,NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA
+"661","R2","#Queen_R2",NA,"F",NA,"Royalty","Y","Y","#RichardII_R2",NA,NA,NA,NA,NA,NA,NA
+"662","Rom","#PrinceEscalus_Rom","Prince","M",NA,"Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"663","Tit","#Saturninus_Tit","Saturninus","M","Adult","Royalty","N","Y","#Tamora_Tit","#Bassianus_Tit",NA,NA,NA,"Y",5,"#Lucius_Tit"
+"664","Tit","#Tamora_Tit","Tamora","F","Adult","Royalty","N","Y","#Saturninus_Tit",NA,NA,NA,NA,"Y",5,"#Titus_Tit"
+"665","Tmp","#Alonso_Tmp","Alonso","M","Adult","Royalty",NA,NA,NA,"#Sebastian_Tmp",NA,NA,NA,NA,NA,NA
+"666","Tro","#Agamemnon_Tro","Agamemnon","M","Adult","Royalty","Y","Y",NA,"#Menelaus_Tro",NA,NA,NA,"N",NA,NA
+"667","Tro","#Priam_Tro","Priam","M","Elderly","Royalty","Y","Y",NA,NA,NA,NA,NA,"N",NA,NA
+"668","WT","#Hermione_WT","Hermione","F","Adult","Royalty","Y","Y","#Leontes_WT",NA,NA,NA,NA,NA,NA,NA
+"669","WT","#Leontes_WT","Leontes","M","Adult","Royalty","Y","Y","#Hermione_WT",NA,NA,NA,NA,NA,NA,NA
+"670","WT","#Polixenes_WT","Polixenes","M","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"671","2H4","#Davy_2H4","Davy","M","Adult","Servant",NA,NA,NA,NA,"#Shallow_2H4",NA,NA,NA,NA,NA
+"672","2H4","#DRAWERS.Francis_1H4","Francis","M","Adult","Servant",NA,NA,NA,NA,"#MistressQuickly_1H4",NA,NA,NA,NA,NA
+"673","2H4","#DRAWERS.Will_2H4","William","M","Adult","Servant",NA,NA,NA,NA,"#MistressQuickly_1H4",NA,NA,NA,NA,NA
+"674","2H4","#Harcourt_2H4","Harcourt","M","Adult","Servant",NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA,NA
+"675","2H4","#MESSENGERS.Gower_2H4","Gower","M","Young Adult","Servant",NA,NA,NA,NA,"#ChiefJustice_2H4",NA,NA,NA,NA,NA
+"676","2H4","#Morton_2H4","Morton","M","Young Adult","Servant",NA,NA,NA,NA,"#Northumberland_R2",NA,NA,NA,NA,NA
+"677","2H4","#Peto_1H4","Peto","M","Young Adult","Servant",NA,NA,NA,NA,"#Falstaff_1H4",NA,NA,NA,NA,NA
+"678","2H4","#Travers_2H4","Travers","M","Adult","Servant",NA,NA,NA,NA,"#Northumberland_R2",NA,NA,NA,NA,NA
+"679","2H6","#Mate_2H6","Mate","M","Adult","Servant",NA,NA,NA,NA,"#Master_2H6",NA,NA,NA,NA,NA
+"680","2H6","#Thump_2H6","Thump","M","Adult","Servant",NA,NA,NA,NA,"#Horner_2H6",NA,NA,NA,NA,NA
+"681","2H6","#Vaux_2H6","Vaux","M","Young Adult","Servant",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"682","2H6","#Whitmore_2H6","Whitmore","M","Young Adult","Servant",NA,NA,NA,NA,"#Master_2H6",NA,NA,NA,NA,NA
+"683","3H6","#ATTENDANTS.EDWARD.1_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"684","3H6","#MESSENGERS.1_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","3H6","#MESSENGERS.2_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","3H6","#MESSENGERS.Post_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","3H6","#MESSENGERS.X.1_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"688","3H6","#MESSENGERS.X.2_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","3H6","#MESSENGERS.X.3_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","3H6","#MESSENGERS.X.4_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","3H6","#MESSENGERS.X.5_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","3H6","#Tutor_3H6",NA,"M","Adult","Servant",NA,NA,NA,NA,"#Rutland_3H6",NA,NA,NA,NA,NA
+"693","3H6","#WATCHMEN.1_3H6",NA,"M",NA,"Servant",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"694","3H6","#WATCHMEN.2_3H6",NA,"M",NA,"Servant",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"695","3H6","#WATCHMEN.3_3H6",NA,"M",NA,"Servant",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"696","Ado","#Balthasar_Ado","Balthasar","M","Adult","Servant",NA,NA,NA,NA,"#DonPedro_Ado",NA,NA,NA,NA,NA
+"697","Ado","#Borachio_Ado","Borachio","M","Young Adult","Servant",NA,NA,NA,NA,"#DonJohn_Ado",NA,NA,NA,NA,NA
+"698","Ado","#Conrade_Ado","Conrade","M","Young Adult","Servant",NA,NA,NA,NA,"#DonJohn_Ado",NA,NA,NA,NA,NA
+"699","Ado","#Dogberry_Ado","Dogberry","M","Adult","Servant",NA,NA,NA,NA,"#Leonato_Ado",NA,NA,NA,NA,NA
+"700","Ado","#FriarFrancis_Ado","Friar Francis","M","Adult","Servant",NA,NA,NA,NA,"#Leonato_Ado",NA,NA,NA,NA,NA
+"701","Ado","#Margaret_Ado","Margaret","F","Young Adult","Servant",NA,NA,NA,NA,"#Hero_Ado",NA,NA,NA,NA,NA
+"702","Ado","#Sexton_Ado","Sexton","M","Adult","Servant",NA,NA,NA,NA,"#Leonato_Ado",NA,NA,NA,NA,NA
+"703","Ado","#Ursula_Ado","Ursula","F","Young Adult","Servant",NA,NA,NA,NA,"#Hero_Ado",NA,NA,NA,NA,NA
+"704","Ado","#Verges_Ado","Verges","M","Adult","Servant",NA,NA,NA,NA,"#Leonato_Ado",NA,NA,NA,NA,NA
+"705","Ant","#Agrippa_Ant","Agrippa","M","Adult","Servant",NA,NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA
+"706","Ant","#Alexas_Ant","Alexas","M","Adult","Servant",NA,NA,NA,NA,"#Cleopatra_Ant",NA,NA,NA,NA,NA
+"707","Ant","#Ambassador_Ant",NA,NA,"Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"708","Ant","#Boy_Ant",NA,NA,"Child","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"709","Ant","#Canidius_Ant","Canidius","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,NA,NA,NA
+"710","Ant","#Charmian_Ant","Charmian","F","Adult","Servant",NA,NA,NA,NA,"#Cleopatra_Ant",NA,NA,"Y",5,NA
+"711","Ant","#Demetrius_Ant","Demetrius","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,NA,NA,NA
+"712","Ant","#Diomedes_Ant","Diomedes","M","Adult","Servant",NA,NA,NA,NA,"#Cleopatra_Ant",NA,NA,NA,NA,NA
+"713","Ant","#Dolabella_Ant","Dolabella","M","Adult","Servant",NA,NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA
+"714","Ant","#Enobarbus_Ant","Enobarbus","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,"Y",4,NA
+"715","Ant","#Eros_Ant","Eros","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,"Y",4,NA
+"716","Ant","#Gallus_Ant","Gallus","M","Adult","Servant",NA,NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA
+"717","Ant","#Iras_Ant","Iras","F","Adult","Servant",NA,NA,NA,NA,"#Cleopatra_Ant",NA,NA,"Y",5,NA
+"718","Ant","#Maecenas_Ant","Maecenas","M","Adult","Servant",NA,NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA
+"719","Ant","#Mardian_Ant","Mardian","M","Adult","Servant",NA,NA,NA,NA,"#Cleopatra_Ant",NA,NA,NA,NA,NA
+"720","Ant","#Menas_Ant","Menas","M","Adult","Servant",NA,NA,NA,NA,"#Pompey_Ant",NA,NA,NA,NA,NA
+"721","Ant","#Philo_Ant","Philo","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,NA,NA,NA
+"722","Ant","#Proculeius_Ant","Proculeius","M","Adult","Servant",NA,NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA
+"723","Ant","#Scarus_Ant","Scarus","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,NA,NA,NA
+"724","Ant","#Seleucus_Ant","Seleucus","M","Adult","Servant",NA,NA,NA,NA,"#Cleopatra_Ant",NA,NA,NA,NA,NA
+"725","Ant","#Silius_Ant","Silius","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,NA,NA,NA
+"726","Ant","#Soothsayer_Ant",NA,NA,"Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"727","Ant","#Taurus_Ant","Taurus","M","Adult","Servant",NA,NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA
+"728","Ant","#Thidias_Ant","Thidias","M","Adult","Servant",NA,NA,NA,NA,"#Octavius_JC",NA,NA,NA,NA,NA
+"729","Ant","#Varrius_Ant","Varrius","M","Adult","Servant",NA,NA,NA,NA,"#Pompey_Ant",NA,NA,NA,NA,NA
+"730","Ant","#Ventidius_Ant","Ventidius","M","Adult","Servant",NA,NA,NA,NA,"#Antony_JC",NA,NA,NA,NA,NA
+"731","AWW","#ATTENDANTS.KING.0.1_AWW","Attendant","M",NA,"Servant",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"732","AWW","#ATTENDANTS.KING.0.2_AWW","Attendant","M",NA,"Servant",NA,NA,NA,NA,"#King_AWW",NA,NA,NA,NA,NA
+"733","AWW","#Fool_AWW","Fool","M","Adult","Servant",NA,NA,NA,NA,"#Countess_AWW",NA,NA,NA,NA,NA
+"734","AWW","#Page_AWW","Page","M","Young Adult","Servant",NA,NA,NA,NA,"#Countess_AWW",NA,NA,NA,NA,NA
+"735","AWW","#Servant_AWW","Servant","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"736","AWW","#Steward_AWW","Steward","M","Adult","Servant",NA,NA,NA,NA,"#Countess_AWW",NA,NA,NA,NA,NA
+"737","AYL","#Adam_AYL","Adam","M","Elderly","Servant",NA,NA,NA,NA,"#Oliver_AYL",NA,NA,NA,NA,NA
+"738","AYL","#Charles_AYL","Charles","M",NA,"Servant",NA,NA,NA,NA,"#DukeFrederick_AYL",NA,NA,NA,NA,NA
+"739","AYL","#Corin_AYL","Corin","M","Elderly","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"740","AYL","#Dennis_AYL","Dennis","M",NA,"Servant",NA,NA,NA,NA,"#Oliver_AYL",NA,NA,NA,NA,NA
+"741","AYL","#Phoebe_AYL","Phoebe","F","Young Adult","Servant",NA,"Y","#Silvius_AYL",NA,NA,NA,NA,NA,NA,NA
+"742","AYL","#Silvius_AYL","Silvius","M","Young Adult","Servant",NA,"Y","#Phoebe_AYL",NA,NA,NA,NA,NA,NA,NA
+"743","AYL","#Touchstone_AYL","Touchstone","F",NA,"Servant",NA,NA,"#Audrey_AYL",NA,"#DukeFrederick_AYL",NA,NA,NA,NA,NA
+"744","Cor","#Gentlewoman_Cor","Gentlewoman","F","Adult","Servant",NA,NA,NA,NA,"#Virgilia_Cor;#Volumnia_Cor",NA,NA,NA,NA,NA
+"745","Cor","#MESSENGERS.X.1_Cor","First Messenger","M","Adult","Servant",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"746","Cor","#MESSENGERS.X.2_Cor","Second Messenger","M","Adult","Servant",NA,NA,NA,NA,"#Coriolanus_Cor;#Lartius_Cor",NA,NA,NA,NA,NA
+"747","Cor","#MESSENGERS.X.3_Cor","Third Messenger","M","Adult","Servant",NA,NA,NA,NA,"#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor",NA,NA,NA,NA,NA
+"748","Cor","#SERVANTS.1_Cor","First Servingman","M","Adult","Servant",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"749","Cor","#SERVANTS.2_Cor","Second Servingman","M","Adult","Servant",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"750","Cor","#SERVANTS.3_Cor","Third Servingman","M","Adult","Servant",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"751","Cor","#SOLDIERS.ROMAN.Lieutenant_Cor","Lieutenant to Lartius","M","Adult","Servant",NA,NA,NA,NA,"#Lartius_Cor",NA,NA,NA,NA,NA
+"752","Cor","#SOLDIERS.VOLSCIAN.Lieutenant_Cor","Volscian Soldiers","M","Adult","Servant",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"753","Cor","#WATCHMEN.1_Cor","First Watchman","M","Adult","Servant",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"754","Cor","#WATCHMEN.2_Cor","Second Watchman","M","Adult","Servant",NA,NA,NA,NA,"#Coriolanus_Cor",NA,NA,NA,NA,NA
+"755","Cym","#Helen_Cym","Helen","F","Young Adult","Servant","N","N",NA,NA,"#Imogen_Cym",NA,NA,"N",NA,NA
+"756","Cym","#Pisanio_Cym","Pisanio","M","Adult","Servant","N","N",NA,NA,"#Posthumus_Cym",NA,NA,"N",NA,NA
+"757","Cym","#Soothsayer_Cym","Soothsayer","M","Adult","Servant","N","N",NA,NA,"#Lucius_Cym",NA,NA,"N",NA,NA
+"758","Err","#DromioOfEphesus_Err","Dromio of Ephesus","M","Young Adult","Servant",NA,NA,NA,"#DromioOfSyracuse_Err","#AntipholusOfEphesus_Err",NA,NA,NA,NA,NA
+"759","Err","#DromioOfSyracuse_Err","Dromio of Syracuse","M","Young Adult","Servant",NA,NA,NA,"#DromioOfEphesus_Err","#AntipholusOfSyracuse_Err",NA,NA,NA,NA,NA
+"760","H5","#Bardolph_1H4","Bardolph","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#KingOfFrance_H5"
+"761","H5","#Nym_H5","Nym","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,"Y",3,"#KingOfFrance_H5"
+"762","H5","#Pistol_2H4","Pistol","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"763","H5","#SOLDIERS.ENGLISH.Bates_H5",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"764","H5","#SOLDIERS.ENGLISH.Court_H5",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"765","H5","#SOLDIERS.ENGLISH.Williams_H5",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"766","H5","#SOLDIERS.FRENCH.LeFer_H5",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"767","H8","#Griffith_H8","Griffith","M","Adult","Servant",NA,NA,NA,NA,"#Katherine_H8",NA,NA,NA,NA,NA
+"768","H8","#LADIES.KATHERINE.Patience_H8","Patience","F","Adult","Servant",NA,NA,NA,NA,"#Katherine_H8",NA,NA,NA,NA,NA
+"769","Ham","#Barnardo_Ham","Barnardo","M",NA,"Servant",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,NA,NA,NA
+"770","Ham","#Francisco_Ham","Francisco","M",NA,"Servant",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,NA,NA,NA
+"771","Ham","#Marcellus_Ham","Marcellus","M",NA,"Servant",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,NA,NA,NA
+"772","Ham","#Reynaldo_Ham","Reynaldo","M",NA,"Servant",NA,NA,NA,NA,"#Polonius_Ham",NA,NA,NA,NA,NA
+"773","Ham","#Voltemand_Ham","Voltemand","M","Adult","Servant",NA,NA,NA,NA,"#Claudius_Ham",NA,NA,NA,NA,NA
+"774","JC","#Lucius_JC","Lucius","M","Young Adult","Servant",NA,NA,NA,NA,"#Brutus_JC",NA,NA,NA,NA,NA
+"775","JC","#Pindarus_JC","Pindarus","M",NA,"Servant",NA,NA,NA,NA,"#Cassius_JC",NA,NA,NA,NA,NA
+"776","JC","#SERVANTS.ANTONY.1_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"777","JC","#SERVANTS.CAESAR.1_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"778","JC","#SERVANTS.OCTAVIUS.1_JC",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"779","Jn","#Gurney_Jn","Gurney","M","Young Adult","Servant",NA,NA,NA,NA,"#LadyFaulconbridge_Jn",NA,NA,NA,NA,NA
+"780","LLL","#Boy_LLL","Mote","M","Child","Servant",NA,NA,NA,NA,"#Armado_LLL",NA,NA,NA,NA,NA
+"781","LLL","#Costard_LLL","Costard","M","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"782","LLL","#Dull_LLL","Dull","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"783","LLL","#Jaquenetta_LLL","Jaquenetta","F","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"784","LLL","#Marcade_LLL","Macade","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"785","Lr","#Fool_Lr","Fool","M","Adult","Servant",NA,NA,NA,NA,"#Lear_Lr",NA,NA,NA,NA,NA
+"786","Lr","#Kent_Lr","Earl of Kent","M","Adult","Servant",NA,NA,NA,NA,"#Lear_Lr",NA,NA,NA,NA,NA
+"787","Lr","#Oswald_Lr","Oswald","M","Adult","Servant",NA,NA,NA,NA,"#Goneril_Lr",NA,NA,"Y",5,"#Edgar_Lr"
+"788","Mac","#Gentlewoman_Mac","Gentlewoman","F","Adult","Servant",NA,NA,NA,NA,"#LadyMacbeth_Mac",NA,NA,NA,NA,NA
+"789","Mac","#MURDERERS.1_Mac","Murderers","M","Young Adult","Servant",NA,NA,NA,NA,"#Macbeth_Mac",NA,NA,NA,NA,NA
+"790","Mac","#MURDERERS.2_Mac","Murderers","M","Young Adult","Servant",NA,NA,NA,NA,"#Macbeth_Mac",NA,NA,NA,NA,NA
+"791","Mac","#MURDERERS.3_Mac","Murderers","M","Young Adult","Servant",NA,NA,NA,NA,"#Macbeth_Mac",NA,NA,NA,NA,NA
+"792","Mac","#Porter_Mac","Porter","M","Adult","Servant",NA,NA,NA,NA,"#Macbeth_Mac",NA,NA,NA,NA,NA
+"793","Mac","#Seyton_Mac","Seyton","M","Adult","Servant",NA,NA,NA,NA,"#Macbeth_Mac",NA,NA,NA,NA,NA
+"794","MM","#Abhorson_MM","Abhorson","M","Adult","Servant",NA,NA,NA,NA,"#Angelo_MM",NA,NA,NA,NA,NA
+"795","MM","#Elbow_MM","Elbow","M","Adult","Servant",NA,NA,NA,NA,"#Angelo_MM",NA,NA,NA,NA,NA
+"796","MM","#Provost_MM","Provost","M","Adult","Servant",NA,NA,NA,NA,"#Angelo_MM",NA,NA,NA,NA,NA
+"797","MM","#SERVANTS.1_MM","SERVANTS.1",NA,NA,"Servant",NA,NA,NA,NA,"#Angelo_MM",NA,NA,NA,NA,NA
+"798","MND","#Philostrate_MND","Philostrate","M","Adult","Servant",NA,NA,NA,NA,"#Theseus_MND",NA,NA,NA,NA,NA
+"799","MND","#RobinGoodfellow_MND","Robin Goodfellow","M","Adult","Servant",NA,NA,NA,NA,"#Oberon_MND",NA,NA,NA,NA,NA
+"800","MV","#ATTENDANTS.BASSANIO.Leonardo_MV","Leonardo","M","Adult","Servant",NA,NA,NA,NA,"#Bassanio_MV",NA,NA,NA,NA,NA
+"801","MV","#ATTENDANTS.PORTIA.Balthazar_MV","Balthazar","M","Adult","Servant",NA,NA,NA,NA,"#Portia_MV",NA,NA,NA,NA,NA
+"802","MV","#ATTENDANTS.PORTIA.Stephano_MV","Stephano","M","Adult","Servant",NA,NA,NA,NA,"#Portia_MV",NA,NA,NA,NA,NA
+"803","MV","#LanceletGobbo_MV","Launcelot Gobbo","M","Young Adult","Servant",NA,NA,NA,NA,"#Bassanio_MV","#OldGobbo_MV",NA,NA,NA,NA
+"804","MV","#OldGobbo_MV",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"805","Oth","#Clown_Oth","Clown","M","Young Adult","Servant",NA,NA,NA,NA,"#Othello_Oth",NA,NA,NA,NA,NA
+"806","Oth","#Emilia_Oth","Emilia","F","Young Adult","Servant","Y","Y","#Iago_Oth",NA,"#Desdemona_Oth",NA,NA,"Y",5,"#Iago_Oth"
+"807","Oth","#Iago_Oth","Iago","M","Adult","Servant","Y","Y","#Emilia_Oth",NA,"#Othello_Oth",NA,NA,NA,NA,NA
+"808","Oth","#MUSICIANS.0.1_Oth","Musicians",NA,"Young Adult","Servant",NA,NA,NA,NA,"#Cassio_Oth",NA,NA,NA,NA,NA
+"809","Per","#Bolt_Per","Bolt","M","Adult","Servant",NA,NA,NA,NA,"#Pander_Per",NA,NA,NA,NA,NA
+"810","Per","#Leonine_Per","Leonine","M","Young Adult","Servant",NA,NA,NA,NA,"#Dionyza_Per",NA,NA,NA,NA,NA
+"811","Per","#Lychorida_Per","Lychorida","F","Young Adult","Servant",NA,NA,NA,NA,"#Thaisa_Per",NA,NA,NA,NA,NA
+"812","Per","#Philemon_Per","Philemon","M","Adult","Servant",NA,NA,NA,NA,"#Cerimon_Per",NA,NA,NA,NA,NA
+"813","R2","#Fitzwater_R2","Fitzwater","M",NA,"Servant",NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA,NA
+"814","R2","#Gardener_R2",NA,"F",NA,"Servant",NA,NA,NA,NA,"#York_R2",NA,NA,NA,NA,NA
+"815","R2","#Groom_R2",NA,"M",NA,"Servant",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"816","R2","#HERALDS.1_R2",NA,"M",NA,"Servant",NA,NA,NA,NA,"#HenryIV_1H4",NA,NA,NA,NA,NA
+"817","R2","#HERALDS.2_R2",NA,"M",NA,"Servant",NA,NA,NA,NA,"#Mowbray_R2",NA,NA,NA,NA,NA
+"818","R2","#LADIES.0.1_R2",NA,"F",NA,"Servant",NA,NA,NA,NA,"#Queen_R2",NA,NA,NA,NA,NA
+"819","R2","#SERVANTS.EXTON.0.1_R2",NA,NA,NA,"Servant",NA,NA,NA,NA,"#Exton_R2",NA,NA,NA,NA,NA
+"820","R2","#SERVANTS.GARDENER.1_R2",NA,"F",NA,"Servant",NA,NA,NA,NA,"#York_R2",NA,NA,NA,NA,NA
+"821","R2","#SERVANTS.YORK.1_R2",NA,NA,NA,"Servant",NA,NA,NA,NA,"#York_R2",NA,NA,NA,NA,NA
+"822","R2","#WelshCaptain_R2",NA,"M",NA,"Servant",NA,NA,NA,NA,"#RichardII_R2",NA,NA,NA,NA,NA
+"823","R3","#ATTENDANTS.0.1_R3","Page","M","Young Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"824","R3","#ATTENDANTS.RICHMOND_R3","Attendant","M",NA,"Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"825","R3","#ATTENDANTS.RICHMOND.0.1_R3","Attendant","M",NA,"Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"826","R3","#Jailer_R3","Keeper","M","Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"827","R3","#MESSENGERS.1_R3","First Messenger","M","Young Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"828","R3","#MESSENGERS.2_R3","Second Messenger","M","Young Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"829","R3","#MESSENGERS.3_R3","Third Messenger","M","Young Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"830","R3","#MESSENGERS.4_R3","Fourth Messenger","M","Young Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"831","R3","#MESSENGERS.X.1_R3","Messenger",NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"832","R3","#MESSENGERS.X.2_R3","Messenger","M","Young Adult","Servant",NA,NA,NA,NA,"#Stanley_R3",NA,NA,NA,NA,NA
+"833","R3","#MESSENGERS.X.3_R3","Messenger","M","Young Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"834","R3","#MURDERERS.1_R3","Murderer","M","Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"835","R3","#MURDERERS.2_R3","Murderer","M","Adult","Servant",NA,NA,NA,NA,"#RichardIII_R3",NA,NA,NA,NA,NA
+"836","R3","#Scrivener_R3","Scrivener","M",NA,"Servant",NA,NA,NA,NA,"#Hastings_3H6",NA,NA,NA,NA,NA
+"837","Rom","#Nurse_Rom","Nurse","F","Adult","Servant",NA,NA,NA,NA,"#Juliet_Rom",NA,NA,NA,NA,NA
+"838","Rom","#SERVANTS.CAPULET.Peter_Rom","Peter","M","Adult","Servant",NA,NA,NA,NA,"#Capulet_Rom",NA,NA,NA,NA,NA
+"839","Rom","#SERVANTS.MONTAGUE.Abram_Rom","Abram","M",NA,"Servant",NA,NA,NA,NA,"#Montague_Rom",NA,NA,NA,NA,NA
+"840","Rom","#SERVANTS.MONTAGUE.Balthasar_Rom","Balthasar","M","Young Adult","Servant",NA,NA,NA,NA,"#Romeo_Rom",NA,NA,NA,NA,NA
+"841","Shr","#Biondello_Shr","Biondello","M","Adult","Servant",NA,NA,NA,NA,"#Lucentio_Shr",NA,NA,NA,NA,NA
+"842","Shr","#Curtis_Shr","Curtis","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"843","Shr","#Grumio_Shr","Grumio","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"844","Shr","#HUNTSMEN.0.1_Shr","Huntsman","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"845","Shr","#HUNTSMEN.0.2_Shr","Huntsman","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"846","Shr","#HUNTSMEN.0.3_Shr","Huntsman","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"847","Shr","#PLAYERS.0.1_Shr","Player","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"848","Shr","#PLAYERS.0.2_Shr","Player","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"849","Shr","#SERVANTS.LORD.0.1_Shr","Servant","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"850","Shr","#SERVANTS.LORD.0.2_Shr","Servant","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"851","Shr","#SERVANTS.LORD.0.3_Shr","Servant","M","Adult","Servant",NA,NA,NA,NA,"#Lord_Shr",NA,NA,NA,NA,NA
+"852","Shr","#SERVANTS.PETRUCHIO.0.4_Shr","Nicholas","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"853","Shr","#SERVANTS.PETRUCHIO.Joseph_Shr","Joseph","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"854","Shr","#SERVANTS.PETRUCHIO.Nathaniel_Shr","Nathaniel","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"855","Shr","#SERVANTS.PETRUCHIO.Nicholas_Shr","Nathaniel","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"856","Shr","#SERVANTS.PETRUCHIO.Peter_Shr","Peter","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"857","Shr","#SERVANTS.PETRUCHIO.Phillip_Shr","Philip","M","Adult","Servant",NA,NA,NA,NA,"#Petruchio_Shr",NA,NA,NA,NA,NA
+"858","Shr","#Tranio_Shr","Tranio","M","Adult","Servant",NA,NA,NA,NA,"#Lucentio_Shr",NA,NA,NA,NA,NA
+"859","TGV","#Lance_TGV","Lance","M","Young Adult","Servant",NA,NA,NA,NA,"#Proteus_TGV",NA,NA,NA,NA,NA
+"860","TGV","#Lucetta_TGV","Lucetta","F","Young Adult","Servant",NA,NA,NA,NA,"#Julia_TGV",NA,NA,NA,NA,NA
+"861","TGV","#Pantino_TGV","Pantino","M","Adult","Servant",NA,NA,NA,NA,"#Antonio_TGV",NA,NA,NA,NA,NA
+"862","TGV","#SERVANTS.1_TGV",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"863","TGV","#Speed_TGV","Speed","M","Young Adult","Servant",NA,NA,NA,NA,"#Valentine_TGV",NA,NA,NA,NA,NA
+"864","Tim","#Phrynia_Tim","Phyrnia","F","Young Adult","Servant",NA,NA,NA,NA,"#Alcibiades_Tim",NA,NA,NA,NA,NA
+"865","Tim","#SERVANTS.Hortensius_Tim","Hortensius","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"866","Tim","#SERVANTS.Page_Tim","Page","M","Child","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"867","Tim","#SERVANTS.Philotus_Tim","Philotus","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"868","Tim","#SERVANTS.TIMON.Lucilius_Tim","Lucilius","M","Adult","Servant",NA,NA,NA,NA,"#Timon_Tim",NA,NA,NA,NA,NA
+"869","Tim","#SERVANTS.TIMON.Servilius_Tim","Servilius","M","Adult","Servant",NA,NA,NA,NA,"#Timon_Tim",NA,NA,NA,NA,NA
+"870","Tim","#SERVANTS.Titus_Tim","Titus","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"871","Tim","#Timandra_Tim","Timandra","F","Young Adult","Servant",NA,NA,NA,NA,"#Alcibiades_Tim",NA,NA,NA,NA,NA
+"872","Tmp","#Ariel_Tmp","Ariel","F","Adult","Servant",NA,NA,NA,NA,"#Prospero_Tmp",NA,NA,NA,NA,NA
+"873","Tmp","#Boatswain_Tmp",NA,"M","Adult","Servant",NA,NA,NA,NA,"#Shipmaster_Tmp",NA,NA,NA,NA,NA
+"874","Tmp","#Caliban_Tmp","Caliban",NA,NA,"Servant",NA,NA,NA,NA,"#Prospero_Tmp",NA,NA,NA,NA,NA
+"875","Tmp","#Gonzalo_Tmp","Gonzalo","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"876","Tmp","#Shipmaster_Tmp",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"877","Tmp","#Stephano_Tmp","Stephano","M","Adult","Servant",NA,NA,NA,NA,"#Alonso_Tmp",NA,NA,NA,NA,NA
+"878","Tmp","#Trinculo_Tmp","Trinculo","M","Adult","Servant",NA,NA,NA,NA,"#Alonso_Tmp",NA,NA,NA,NA,NA
+"879","TN","#ATTENDANTS.ORSINO.Curio_TN","Curio","M","Adult","Servant",NA,NA,NA,NA,"#Orsino_TN",NA,NA,NA,NA,NA
+"880","TN","#ATTENDANTS.ORSINO.Valentine_TN","Valentine","M","Adult","Servant",NA,NA,NA,NA,"#Orsino_TN",NA,NA,NA,NA,NA
+"881","TN","#Fabian_TN","Fabian","M","Adult","Servant",NA,NA,NA,NA,"#Olivia_TN",NA,NA,NA,NA,NA
+"882","TN","#Feste_TN","Feste","M","Young Adult","Servant",NA,NA,NA,NA,"#Olivia_TN",NA,NA,NA,NA,NA
+"883","TN","#Malvolio_TN","Malvolio","M","Adult","Servant",NA,NA,NA,NA,"#Olivia_TN",NA,NA,NA,NA,NA
+"884","Tro","#Alexander_Tro","Alexander","M","Young Adult","Servant","N","N",NA,NA,"#Cressida_Tro",NA,NA,"N",NA,NA
+"885","Tro","#Thersites_Tro","Thersites","M","Adult","Servant","N","N",NA,NA,"#Ajax_Tro",NA,NA,"N",NA,NA
+"886","Wiv","#Bardolph_1H4","Bardolph","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"887","Wiv","#MistressQuickly_1H4","Mistress Quickly","F","Adult","Servant",NA,NA,NA,NA,"#DoctorCaius_Wiv",NA,NA,NA,NA,NA
+"888","Wiv","#Nym_H5","Nym","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"889","Wiv","#Pistol_2H4","Pistol","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"890","Wiv","#Robin_Wiv","Robin","M","Young Adult","Servant",NA,NA,NA,NA,"#Falstaff_1H4",NA,NA,NA,NA,NA
+"891","Wiv","#Rugby_Wiv","Rugby","M",NA,"Servant",NA,NA,NA,NA,"#DoctorCaius_Wiv",NA,NA,NA,NA,NA
+"892","Wiv","#Simple_Wiv","Simple","M",NA,"Servant",NA,NA,NA,NA,"#Slender_Wiv",NA,NA,NA,NA,NA
+"893","WT","#Autolycus_WT","Autolycus","M","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"894","WT","#Dorcas_WT","Dorcus","F","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"895","WT","#Mopsa_WT","Mopsa","F","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"896","WT","#Shepherd_WT","Shepherd","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"897","WT","#ShepherdsSon_WT","Shepherd's Son","M","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"898","Err","#Luce_Err","Luce","M","Young Adult","Servant","Y","Y","#DromioOfEphesus_Err",NA,NA,NA,NA,NA,NA,NA
+"899","Tim","#Flavius_Tim","Flavius","M","Adult","Servant",NA,NA,NA,NA,"#Timon_Tim",NA,NA,NA,NA,NA
+"900","Tim","#SERVANTS.Caphis_Tim","Caphis","M","Adult","Servant",NA,NA,NA,NA,"#Creditor_Tim",NA,NA,NA,NA,NA
+"901","Tim","#SERVANTS.TIMON.Flaminius_Tim","Flaminius","M","Adult","Servant",NA,NA,NA,NA,"#Timon_Tim",NA,NA,NA,NA,NA
+"902","Tmp","#SPIRITS.Ceres_Tmp","Ceres","F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"903","Tmp","#SPIRITS.Iris_Tmp","Iris","F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"904","Tmp","#SPIRITS.Juno_Tmp","Juno","F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"905","1H4","#Bedford_H5","Bedford",NA,NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"906","1H4","#Chamberlain_1H4","Chamberlain",NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"907","1H4","#DRAWERS.Francis_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"908","1H4","#Falstaff_1H4 #Bardolph_1H4 #Peto_1H4 #Gadshill_1H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"909","1H4","#Gadshill_1H4","Gadshill","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"910","1H4","#MESSENGERS.1_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"911","1H4","#MESSENGERS.2_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"912","1H4","#MESSENGERS.X_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"913","1H4","#SERVANTS.HOTSPUR.1_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"914","1H4","#TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN_1H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"915","1H4","#TRAVELERS.CARRIERS.1_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"916","1H4","#TRAVELERS.CARRIERS.2_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"917","1H4","#TRAVELERS.CARRIERS.X_1H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"918","1H4","#TRAVELERS.GENTLEMEN_1H4",NA,NA,NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"919","1H4","#TRAVELERS.GENTLEMEN.0.1_1H4",NA,NA,NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"920","1H6","#Alanson_1H6","Alanson","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"921","1H6","#Bastard_1H6","Bastard","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"922","1H6","#Boy_1H6","Boy","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"923","1H6","#Gloucester_2H4 #CardinalBeaufort_1H6 #Exeter_H5 #Suffolk_1H6 #Warwick_2H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"924","1H6","#MESSENGERS.ENGLISH.1_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"925","1H6","#MESSENGERS.ENGLISH.2_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"926","1H6","#MESSENGERS.ENGLISH.3_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"927","1H6","#MESSENGERS.ENGLISH.X.1_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"928","1H6","#MESSENGERS.FRENCH.1_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"929","1H6","#OFFICERS.0.1_1H6",NA,NA,NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"930","1H6","#SERVANTS.GLOUCESTER_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,"#Gloucester_2H4",NA,NA,NA,NA,NA
+"931","1H6","#SOLDIERS.ENGLISH.0.1_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"932","1H6","#SOLDIERS.ENGLISH.1_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"933","1H6","#SOLDIERS.FRENCH.Sergeant_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"934","1H6","#WARDERS.1_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"935","1H6","#WARDERS.2_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"936","1H6","#WATCHMEN.1_1H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"937","2H4","#BEADLES.0.1_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"938","2H4","#Bedford_H5 #Clarence_2H4 #Gloucester_2H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"939","2H4","#Chorus_2H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"940","2H4","#DRAWERS.1_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"941","2H4","#DRAWERS.X_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"942","2H4","#Epilogue_2H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"943","2H4","#Gloucester_2H4 #Clarence_2H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"944","2H4","#GROOMS.1_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"945","2H4","#GROOMS.2_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"946","2H4","#HenryV_H5 #Poins_1H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"947","2H4","#MESSENGERS.1_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"948","2H4","#OFFICERS.Fang_2H4 #OFFICERS.Snare_2H4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"949","2H4","#Porter_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"950","2H4","#SERVANTS.CHIEFJUSTICE.1_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"951","2H4","#SERVANTS.FALSTAFF.1_2H4",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"952","2H6","#Bevis_2H6 #Holland_2H6 #Dick_2H6 #Smith_2H6 #Michael_2H6 #George_2H6 #FOLLOWERS.CADE_2H6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"953","2H6","#Bevis_2H6 #Holland_2H6 #Dick_2H6 #Smith_2H6 #Sawyer_2H6 #FOLLOWERS.CADE_2H6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"954","2H6","#Bevis_2H6 #Holland_2H6 #Dick_2H6 #Smith_2H6 #Sawyer_2H6 #Michael_2H6 #FOLLOWERS.CADE_2H6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"955","2H6","#Buckingham_2H6","Buckingham","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"956","2H6","#CardinalBeaufort_1H6","Cardinal Beaufort","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,"Y",3,NA
+"957","2H6","#CITIZENS_2H6",NA,NA,NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"958","2H6","#CITIZENS.LONDON.0.1_2H6",NA,NA,NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"959","2H6","#CITIZENS.STALBANS.0.1_2H6",NA,NA,NA,"Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"960","2H6","#DuchessOfGloucester_2H6","Duchess of Gloucester","F","Adult","Nobility","Y","Y","#Gloucester_2H4",NA,NA,NA,NA,NA,NA,NA
+"961","2H6","#FOLLOWERS.CADE_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"962","2H6","#FOLLOWERS.CADE.0_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"963","2H6","#GENTLEMEN.1_2H6",NA,NA,NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"964","2H6","#GENTLEMEN.2_2H6",NA,NA,NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"965","2H6","#George_2H6","George",NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"966","2H6","#Gloucester_2H4","Gloucester","M","Adult","Nobility","Y","Y","#DuchessOfGloucester_2H6",NA,"#HenryVI_1H6",NA,NA,"Y",4,NA
+"967","2H6","#Gloucester_2H4 #CardinalBeaufort_1H6 #Somerset_1H6 #Suffolk_1H6 #Buckingham_2H6 #York_1H6 #Salisbury_2H6 #Warwick_2H6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"968","2H6","#HenryVI_1H6","Henry VI","M","Adult","Royalty","Y","Y","#QueenMargaret_1H6",NA,NA,NA,NA,NA,NA,NA
+"969","2H6","#HERALDS.X.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"970","2H6","#MESSENGERS.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"971","2H6","#MESSENGERS.2_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"972","2H6","#MESSENGERS.Post_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"973","2H6","#MESSENGERS.X.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"974","2H6","#MESSENGERS.X.2_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"975","2H6","#MESSENGERS.X.3_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"976","2H6","#MURDERERS.0.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"977","2H6","#MURDERERS.0.2_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"978","2H6","#NEIGHBORS.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"979","2H6","#NEIGHBORS.2_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"980","2H6","#NEIGHBORS.3_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"981","2H6","#PETITIONERS_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"982","2H6","#PETITIONERS.0.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"983","2H6","#PETITIONERS.0.2_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"984","2H6","#PRENTICES.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"985","2H6","#PRENTICES.2_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"986","2H6","#QueenMargaret_1H6","Margaret","F","Adult","Nobility","Y","Y","#HenryVI_1H6",NA,NA,NA,NA,NA,NA,NA
+"987","2H6","#Salisbury_2H6","Salisbury","M","Adult","Nobility",NA,NA,NA,NA,"#York_1H6",NA,NA,NA,NA,NA
+"988","2H6","#Salisbury_2H6 #Warwick_2H6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"989","2H6","#SERVANTS.GLOUCESTER.0.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"990","2H6","#SOLDIERS.1_2H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"991","2H6","#Somerset_1H6","Somerset","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,"Y",5,"#RichardIII_R3"
+"992","2H6","#Spirit_2H6","Spirit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"993","2H6","#Stanley_2H6","Stanley","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"994","2H6","#Suffolk_1H6","Suffolk","M","Adult","Nobility",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"995","2H6","#Warwick_2H6","Warwick","M","Adult","Nobility",NA,NA,NA,NA,"#York_1H6","#Salisbury_2H6",NA,NA,NA,NA
+"996","2H6","#York_1H6","York","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"997","3H6","#Father_3H6",NA,"M","Adult","Servant",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"998","3H6","#GAMEKEEPERS.1_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"999","3H6","#GAMEKEEPERS.2_3H6",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1000","3H6","#Huntsman_3H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1001","3H6","#Lieutenant_3H6",NA,"M","Adult","Middle Class",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"1002","3H6","#RichardIII_R3 #Hastings_3H6 #Montgomery_3H6 #SOLDIERS.YORK_3H6 #MayorOfYork_3H6 #ALDERMEN_3H6 #Montgomery_3H6 #SOLDIERS.MONTGOMERY_3H6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1003","3H6","#SOLDIERS.YORK.0.1_3H6",NA,"M",NA,"Servant",NA,NA,NA,NA,"#EdwardIV_3H6",NA,NA,NA,NA,NA
+"1004","3H6","#Son_3H6",NA,"M","Young Adult","Servant",NA,NA,NA,NA,"#HenryVI_1H6",NA,NA,NA,NA,NA
+"1005","Ado","#ATTENDANTS.0.1_Ado",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1006","Ado","#Borachio_Ado #Conrade_Ado",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1007","Ado","#Boy_Ado",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1008","Ado","#LeonatosBrother_Ado",NA,NA,NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1009","Ado","#MESSENGERS.DONPEDRO.1_Ado",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1010","Ado","#MESSENGERS.LEONATO.1_Ado",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1011","Ado","#MUSICIANS_Ado",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1012","Ado","#WATCHMEN.1_Ado",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1013","Ado","#WATCHMEN.2_Ado",NA,"M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1014","Ado","#WATCHMEN.Seacoal_Ado",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1015","Ant","#Agrippa_Ant #Maecenas_Ant #GUARDS.Dercetus_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1016","Ant","#ATTENDANTS.ANTONY_Ant",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1017","Ant","#CAPTAINS_Ant #SOLDIERS.ANTONY_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1018","Ant","#CAPTAINS.0.1_Ant",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1019","Ant","#Charmian_Ant #Iras_Ant #Alexas_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1020","Ant","#Charmian_Ant #Iras_Ant #LADIES_Ant #GUARDS_Ant #Diomedes_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1021","Ant","#Countryman_Ant",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1022","Ant","#Egyptian_Ant",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1023","Ant","#GUARDS_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1024","Ant","#GUARDS_Ant #GUARDS.Dercetus_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1025","Ant","#GUARDS.0.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1026","Ant","#GUARDS.0.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1027","Ant","#GUARDS.0.3_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1028","Ant","#GUARDS.CAESAR.0.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1029","Ant","#GUARDS.CAESAR.0.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1030","Ant","#GUARDS.CAESAR.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1031","Ant","#GUARDS.Dercetus_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1032","Ant","#Maecenas_Ant #Agrippa_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1033","Ant","#MESSENGERS.ANTONY.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1034","Ant","#MESSENGERS.ANTONY.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1035","Ant","#MESSENGERS.ANTONY.3_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1036","Ant","#MESSENGERS.CAESAR.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1037","Ant","#MESSENGERS.CAESAR.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1038","Ant","#MESSENGERS.X.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1039","Ant","#MESSENGERS.X.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1040","Ant","#MESSENGERS.X.3_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1041","Ant","#MESSENGERS.X.4_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1042","Ant","#MESSENGERS.X.5_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1043","Ant","#Octavius_JC #Antony_JC #Pompey_Ant #Lepidus_JC #Agrippa_Ant #Maecenas_Ant #Enobarbus_Ant #Menas_Ant #CAPTAINS_Amt #Boy_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1044","Ant","#Octavius_JC #Antony_JC #Pompey_Ant #Lepidus_JC #Agrippa_Ant #Maecenas_Ant #Enobarbus_Ant #Menas_Ant #CAPTAINS_Ant #Boy_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1045","Ant","#Octavius_JC #Lepidus_JC #Antony_JC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1046","Ant","#Octavius_JC #Lepidus_JC #Antony_JC #Maecenas_Ant #Agrippa_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1047","Ant","#Proculeius_Ant #Gallus_Ant #Maecenas_Ant #ATTENDANTS.CAESAR_Ant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1048","Ant","#SERVANTS_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1049","Ant","#SERVANTS.0.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1050","Ant","#SERVANTS.0.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1051","Ant","#SERVANTS.X.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1052","Ant","#SERVANTS.X.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1053","Ant","#SOLDIERS.ANTONY_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1054","Ant","#SOLDIERS.ANTONY.0.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1055","Ant","#SOLDIERS.ANTONY.0.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1056","Ant","#SOLDIERS.ANTONY.0.3_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1057","Ant","#SOLDIERS.ANTONY.0.4_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1058","Ant","#SOLDIERS.ANTONY.X.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1059","Ant","#SOLDIERS.ANTONY.X.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1060","Ant","#SOLDIERS.ANTONY.X.3_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1061","Ant","#SOLDIERS.CAESAR.X.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1062","Ant","#WATCHMEN.1_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1063","Ant","#WATCHMEN.2_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1064","Ant","#WATCHMEN.Sentry_Ant",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1065","AWW","#Epilogue_AWW",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1066","AWW","#LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1067","AWW","#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1068","AWW","#Widow_AWW #Diana_AWW",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1069","AYL","#Audrey_AYL","Audrey","F",NA,"Servant",NA,"Y","#Touchstone_AYL",NA,NA,NA,NA,NA,NA,NA
+"1070","AYL","#Hymen_AYL",NA,"M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1071","AYL","#Jaques_AYL","Jaques","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1072","AYL","#LORDS.FREDERICK.0.2_AYL",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1073","AYL","#LORDS.SENIOR_AYL #Jaques_AYL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1074","AYL","#LORDS.SENIOR.0.2_AYL",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1075","AYL","#LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Jaques_AYL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1076","AYL","#LORDS.SENIOR.Amiens_AYL#LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Jaques_AYL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1077","AYL","#OliverMartext_AYL","Oliver Martext","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1078","AYL","#SERVANTS.1_AYL",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1079","AYL","#SERVANTS.1_AYL #SERVANTS.2_AYL",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1080","AYL","#SERVANTS.2_AYL",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1081","AYL","#William_AYL","William","M","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1082","Cor","#AEDILES_Cor","First Aedile","M","Adult","Middle Class",NA,NA,NA,NA,"#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor",NA,NA,NA,NA,NA
+"1083","Cor","#AEDILES.X.2_Cor","Second Aedile","M","Adult","Middle Class",NA,NA,NA,NA,"#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor",NA,NA,NA,NA,NA
+"1084","Cor","#AEDILES.X.3_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1085","Cor","#CITIZENS.ANTIUM.1_Cor","Citizen of Antium","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1086","Cor","#CITIZENS.ROMAN_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1087","Cor","#CITIZENS.ROMAN.0.1_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1088","Cor","#CITIZENS.ROMAN.0.2_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1089","Cor","#CITIZENS.ROMAN.0.3_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1090","Cor","#CITIZENS.ROMAN.1_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1091","Cor","#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1092","Cor","#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1093","Cor","#CITIZENS.ROMAN.2_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1094","Cor","#CITIZENS.ROMAN.3_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1095","Cor","#CITIZENS.ROMAN.4_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1096","Cor","#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1097","Cor","#CITIZENS.ROMAN.5_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1098","Cor","#CITIZENS.ROMAN.6_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1099","Cor","#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1100","Cor","#CITIZENS.ROMAN.7_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1101","Cor","#CITIZENS.VOLSCIAN_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1102","Cor","#CITIZENS.VOLSCIAN_Corrd_Per",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1103","Cor","#CONSPIRATORS_Cor",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1104","Cor","#CONSPIRATORS.0.1_Cor","First Conspirator","M","Adult","Middle Class",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"1105","Cor","#CONSPIRATORS.0.2_Cor","Second Conspirator","M","Adult","Middle Class",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"1106","Cor","#CONSPIRATORS.0.3_Cor","Third Conspirator","M","Adult","Middle Class",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"1107","Cor","#Menenius_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1108","Cor","#MESSENGERS.TRIBUNES.1_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1109","Cor","#MESSENGERS.TRIBUNES.2_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1110","Cor","#MESSENGERS.X.4_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1111","Cor","#NOBLES.0.1_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1112","Cor","#SENATORS.ROMAN_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1113","Cor","#SENATORS.ROMAN_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #Menenius_Cor #Cominius_Cor #Lartius_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1114","Cor","#SENATORS.ROMAN.0.1_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1115","Cor","#SENATORS.ROMAN.0.2_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1116","Cor","#SENATORS.VOLSCIAN_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1117","Cor","#SENATORS.VOLSCIAN.0.1_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1118","Cor","#SENATORS.VOLSCIAN.0.2_Cor",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1119","Cor","#SERVANTS.1_Cor #SERVANTS.2_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1120","Cor","#SOLDIERS.ROMAN_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1121","Cor","#SOLDIERS.ROMAN_Cor #Lartius_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1122","Cor","#SOLDIERS.ROMAN.0.1_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1123","Cor","#SOLDIERS.ROMAN.0.2_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1124","Cor","#SOLDIERS.ROMAN.0.3_Cor",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1125","Cor","#SOLDIERS.VOLSCIAN.0.1_Cor","Volscian Soldier","M","Adult","Servant",NA,NA,NA,NA,"#Aufidius_Cor",NA,NA,NA,NA,NA
+"1126","Cor","#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1127","Cor","#Valeria_Cor #Virgilia_Cor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1128","Cym","#ATTENDANTS.0.1_Cym",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1129","Cym","#ATTENDANTS.0.2_Cym",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1130","Cym","#ATTENDANTS.1_Cym",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1131","Cym","#ATTENDANTS.2_Cym",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1132","Cym","#ATTENDANTS.3_Cym",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1133","Cym","#ATTENDANTS.CLOTEN.1_Cym",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1134","Cym","#ATTENDANTS.CLOTEN.2_Cym",NA,NA,NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1135","Cym","#Frenchman_Cym",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1136","Cym","#GHOSTS.BROTHERS.1_Cym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1137","Cym","#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1138","Cym","#GHOSTS.BROTHERS.2_Cym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1139","Cym","#GHOSTS.Father_Cym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1140","Cym","#GHOSTS.Father_Cym #GHOSTS.Mother_Cym #GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1141","Cym","#GHOSTS.Mother_Cym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1142","Cym","#Guiderius_Cym #Arviragus_Cym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1143","Cym","#JAILERS.1_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1144","Cym","#JAILERS.2_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1145","Cym","#LADIES.IMOGEN_Cym",NA,"F",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1146","Cym","#LADIES.QUEEN_Cym",NA,"F",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1147","Cym","#LADIES.QUEEN.0.1_Cym",NA,"F",NA,"Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1148","Cym","#MESSENGERS.1_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1149","Cym","#MESSENGERS.2_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1150","Cym","#MUSICIANS_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1151","Cym","#SENATORS.1_Cym",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1152","Cym","#SENATORS.2_Cym",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1153","Cym","#SOLDIERS.BRITON.0.1_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1154","Cym","#SOLDIERS.BRITON.0.2_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1155","Cym","#SOLDIERS.ROMAN.0.1_Cym",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1156","Cym","#TRIBUNES.0.1_Cym",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1157","Err","#Courtesan_Err",NA,"F","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1158","Err","#Merchant1_Err",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1159","Err","#Merchant2_Err",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1160","Err","#Messenger_Err",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1161","Err","#OFFICERS.Jailer_Err",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1162","Err","#OFFICERS.X_Err",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1163","Err","#Pinch_Err",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1164","H5","#AMBASSADORS.0.1_H5",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1165","H5","#ATTENDANTS.ENGLISH_H5",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1166","H5","#Boy_H5","Boy","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1167","H5","#Chorus_H5","Chorus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1168","H5","#Erpingham_H5",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1169","H5","#Fluellen_H5","Fluellen","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1170","H5","#Gloucester_2H4","Gloucester","M","Adult","Nobility",NA,NA,NA,"#HenryV_H5",NA,NA,NA,NA,NA,NA
+"1171","H5","#Gower_H5","Gower","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1172","H5","#Grandpre_H5","Grandpre","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1173","H5","#Grey_H5 #Scroop_H5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1174","H5","#HenryV_H5 #Westmoreland_1H4 #Exeter_H5 #KingOfFrance_H5 #Burgundy_H5 #Katherine_H5 #Alice_H5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1175","H5","#HERALDS.1_H5",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1176","H5","#Katherine_H5","Katherine","F","Adult","Royalty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1177","H5","#MacMorris_H5","Mac Morris","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1178","H5","#MESSENGERS.X.1_H5",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1179","H5","#MESSENGERS.X.2_H5",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1180","H5","#MESSENGERS.X.3_H5",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1181","H8","#Chancellor_H8 #Suffolk_H8 #Norfolk_H8 #Surrey_H8 #Chamberlain_H8 #Gardiner_H8 #Cromwell_H8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1182","H8","#Epilogue_H8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1183","H8","#GENTLEMEN.1_H8",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1184","H8","#GENTLEMEN.1_H8 #GENTLEMEN.2_H8",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1185","H8","#GENTLEMEN.1_H8 #GENTLEMEN2_H8",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1186","H8","#GENTLEMEN.2_H8",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1187","H8","#GENTLEMEN.3_H8",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1188","H8","#GENTLEMEN.X_H8",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1189","H8","#LADIES.KATHERINE.0.1_H8",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1190","H8","#Prologue_H8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1191","H8","#SECRETARIES.0.1_H8",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1192","H8","#SERVANTS.LARDER.1_H8",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1193","H8","#SERVANTS.PORTER.1_H8",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1194","H8","#SERVANTS.X.1_H8",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1195","Ham","#AMBASSADORS_Ham",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1196","Ham","#ATTENDANTS_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1197","Ham","#ATTENDANTS.0.1_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1198","Ham","#ATTENDANTS.1_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1199","Ham","#ATTENDANTS.2_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1200","Ham","#ATTENDANTS.GUARDS_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1201","Ham","#Barnardo_Ham #Marcellus_Ham",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1202","Ham","#Cornelius_Ham #Voltemand_Ham",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1203","Ham","#FOLLOWERS.LAERTES_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1204","Ham","#Gravedigger_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1205","Ham","#GravediggersCompanion_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1206","Ham","#Horatio_Ham #Marcellus_Ham",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1207","Ham","#Horatio_Ham #Marcellus_Ham #Barnardo_Ham",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1208","Ham","#MESSENGERS.1_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1209","Ham","#MESSENGERS.2_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1210","Ham","#PLAYERS.0.1_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1211","Ham","#PLAYERS.1_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1212","Ham","#PLAYERS.King_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1213","Ham","#PLAYERS.Lucianus_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1214","Ham","#PLAYERS.Prologue_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1215","Ham","#PLAYERS.Queen_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1216","Ham","#Rosencrantz_Ham #Guildenstern_Ham",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1217","Ham","#SAILORS.0.1_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1218","Ham","#SOLDIERS.FORTINBRAS.Captain_Ham",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1219","JC","#SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1220","JC","#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC","Varro","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1221","Jn","#CITIZENS.0.1_Jn",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1222","Jn","#EXECUTIONERS.0.1_Jn",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1223","Jn","#HERALDS.ENGLISH_Jn",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1224","Jn","#HERALDS.FRENCH_Jn",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1225","Jn","#MESSENGERS.ENGLISH.1_Jn",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1226","Jn","#MESSENGERS.FRENCH.1_Jn",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1227","Jn","#Pembroke_Jn #Bigot_Jn",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1228","LLL","#Forester_LLL","Forester","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1229","LLL","#LORDS.0_LLL",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1230","LLL","#Spring_LLL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1231","LLL","#Winter_LLL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1232","Lr","#Albany_Lr #Cornwall_Lr",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1233","Lr","#ATTENDANTS.ALBANY_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1234","Lr","#ATTENDANTS.CORDELIA.1_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1235","Lr","#ATTENDANTS.LEAR.0.3_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1236","Lr","#ATTENDANTS.X.1_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1237","Lr","#ATTENDANTS.X.2_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1238","Lr","#ATTENDANTS.X.3_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1239","Lr","#ATTENDANTS.X.4_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1240","Lr","#Doctor_Lr",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1241","Lr","#Herald_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1242","Lr","#MESSENGERS.X.1_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1243","Lr","#MESSENGERS.X.2_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1244","Lr","#MESSENGERS.X.3_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1245","Lr","#OldMan_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1246","Lr","#SERVANTS.0.1_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1247","Lr","#SERVANTS.0.2_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1248","Lr","#SERVANTS.0.3_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1249","Lr","#SOLDIERS.CAPTAINS.1_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1250","Lr","#SOLDIERS.CAPTAINS.2_Lr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1251","Mac","#ATTENDANTS_Mac","Attendants","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1252","Mac","#Hecate_Mac","Hecate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1253","Mac","#Macbeth_Mac #Lennox_Mac",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1254","Mac","#Macbeth_Mac #Lennox_Mac #Ross_Mac #Donalbain_Mac #Malcolm_Mac",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1255","Mac","#Macduff_Mac #Banquo_Mac #Lennox_Mac #Ross_Mac #Donalbain_Mac #Malcolm_Mac",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1256","Mac","#Macduff_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1257","Mac","#MESSENGERS.1_Mac","Messengers","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1258","Mac","#MESSENGERS.2_Mac","Messengers","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1259","Mac","#MESSENGERS.3_Mac","Messengers","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1260","Mac","#MURDERERS.0.1_Mac","Murderers","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1261","Mac","#MURDERERS.1_Mac #MURDERERS.2_Mac",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1262","Mac","#OldMan_Mac","Old Man","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1263","Mac","#SERVANTS.X.2_Mac","Servants","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1264","Mac","#SERVANTS.X.3_Mac","Servants","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1265","Mac","#SERVANTS.X.4_Mac","Servants","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1266","Mac","#SOLDIERS.Captain_Mac","Captain","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1267","Mac","#SOLDIERS.MALCOLM.0.1_Mac","Soilders","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1268","Mac","#SPIRITS.1_Mac","Spirits",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1269","Mac","#SPIRITS.2_Mac","Spirits",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1270","Mac","#SPIRITS.3_Mac","Spirits",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1271","Mac","#WITCHES.1_Mac","Witches","F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1272","Mac","#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac",NA,"F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1273","Mac","#WITCHES.2_Mac","Witches","F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1274","Mac","#WITCHES.3_Mac","Witches","F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1275","MM","#Angelo_MM #Escalus_MM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1276","MM","#Bawd_MM","Bawd","F","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1277","MM","#Boy_MM","Boy","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1278","MM","#Messenger_MM","Messenger","M",NA,"Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1279","MND","#FAIRIES.TITANIA_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1280","MND","#FAIRIES.TITANIA.0.1_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1281","MND","#FAIRIES.TITANIA.0.2_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1282","MND","#FAIRIES.TITANIA.1_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1283","MND","#FAIRIES.TITANIA.Cobweb_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1284","MND","#FAIRIES.TITANIA.Mote_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1285","MND","#FAIRIES.TITANIA.Mustardseed_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1286","MND","#FAIRIES.TITANIA.Peaseblossom_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1287","MND","#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1288","MND","#Quince_MND #Bottom_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1289","MV","#Messenger_MV",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1290","MV","#MUSICIANS_MV",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1291","MV","#SERVANTS.1_MV",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1292","MV","#SERVANTS.2_MV",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1293","MV","#Shylock_MV","Shylock","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1294","Oth","#Bianca_Oth","Bianca","F","Young Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1295","Oth","#Cassio_Oth #Gratiano_Oth #Montano_Oth #Bianca_Oth",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1296","Oth","#Duke_Oth #SENATORS_Oth",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1297","Oth","#GENTLEMEN_Oth","Gentlemen","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1298","Oth","#GENTLEMEN.0.1_Oth","Gentlemen","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1299","Oth","#Herald_Oth","Herald","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1300","Oth","#MESSENGERS.X.1_Oth","Messengers","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1301","Oth","#MESSENGERS.X.2_Oth","Messengers","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1302","Oth","#OFFICERS_Oth","Officers","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1303","Oth","#OFFICERS.0.1_Oth","Officers","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1304","Oth","#Sailor_Oth","Sailor","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1305","Per","#Cleon_Per #Dionyza_Per #CITIZENS.TARSUS_Per",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1306","Per","#Daughter_Per",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1307","Per","#Diana_Per",NA,"F",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1308","Per","#FISHERMEN.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1309","Per","#FISHERMEN.2_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1310","Per","#FISHERMEN.3_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1311","Per","#GENTLEMEN.EPHESUS.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1312","Per","#GENTLEMEN.EPHESUS.2_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1313","Per","#GENTLEMEN.MYTILENE.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1314","Per","#GENTLEMEN.MYTILENE.2_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1315","Per","#GENTLEMEN.TYRE.0.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1316","Per","#Gower_Per",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1317","Per","#KNIGHTS_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1318","Per","#KNIGHTS.0.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1319","Per","#KNIGHTS.0.2_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1320","Per","#KNIGHTS.0.3_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1321","Per","#LORDS.MYTILENE.0.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1322","Per","#LORDS.PENTAPOLIS.0.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1323","Per","#LORDS.PENTAPOLIS.0.2_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1324","Per","#LORDS.PENTAPOLIS.0.3_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1325","Per","#LORDS.TARSUS.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1326","Per","#LORDS.TYRE_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1327","Per","#LORDS.TYRE.0.1_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1328","Per","#LORDS.TYRE.0.2_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1329","Per","#LORDS.TYRE.0.3_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1330","Per","#LORDS.TYRE.Escanes_Per",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1331","Per","#Marshal_Per",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1332","Per","#MESSENGERS.ANTIOCH.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1333","Per","#Pericles_Per #Thaisa_Per",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1334","Per","#PIRATES.0.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1335","Per","#PIRATES.0.2_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1336","Per","#PIRATES.0.3_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1337","Per","#SAILORS.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1338","Per","#SAILORS.2_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1339","Per","#SAILORS.MYTILENE.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1340","Per","#SAILORS.TYRE.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1341","Per","#SERVANTS.CERIMON.0.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1342","Per","#SUPPLIANTS.1_Per",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1343","R2","#Bushy_R2 #Bagot_R2 #Green_R2 #Aumerle_R2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1344","R2","#Jailer_R2",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1345","R3","#BISHOPS_R3 #MayorOfLondon_R3 #CITIZENS_R3 #Catesby_R3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1346","R3","#ClarencesBoy_R3 #ClarencesDaughter_R3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1347","R3","#EdwardV_R3 #York_R3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1348","R3","#MURDERERS.1_R3 #MURDERERS.2_R3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1349","R3","#Rivers_3H6 #Grey_R3 #Vaughan_R3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1350","Rom","#Apothecary_Rom",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1351","Rom","#Chorus_Rom",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1352","Rom","#CITIZENS_Rom",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1353","Rom","#CITIZENS.0.1_Rom",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1354","Rom","#FriarJohn_Rom","Friar John","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1355","Rom","#FriarLawrence_Rom","Friar Lawrence","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1356","Rom","#MUSICIANS.0.1_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1357","Rom","#MUSICIANS.0.2_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1358","Rom","#MUSICIANS.0.3_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1359","Rom","#Petruchio_Rom","Petruchio","M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1360","Rom","#SERVANTS.CAPULET.0_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1361","Rom","#SERVANTS.CAPULET.0.1_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1362","Rom","#SERVANTS.CAPULET.0.2_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1363","Rom","#SERVANTS.CAPULET.0.3_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1364","Rom","#SERVANTS.CAPULET.Gregory_Rom","Gregory","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1365","Rom","#SERVANTS.CAPULET.Sampson_Rom","Sampson","M","Adult","Servant",NA,NA,NA,NA,"#Capulet_Rom",NA,NA,NA,NA,NA
+"1366","Rom","#SERVANTS.CAPULET.X.1_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1367","Rom","#SERVANTS.CAPULET.X.2_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1368","Rom","#SERVANTS.PARIS.1_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1369","Rom","#WATCHMEN.0.1_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1370","Rom","#WATCHMEN.0.2_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1371","Rom","#WATCHMEN.0.3_Rom",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1372","Shr","#Gremio_Shr #Tranio_Shr",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1373","Shr","#Grumio_Shr #Biondello_Shr",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1374","Shr","#Lord_Shr #SERVANTS.LORD_Shr",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1375","Shr","#Merchant_Shr",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1376","Shr","#Messenger_Shr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1377","Shr","#Page_Shr",NA,"M","Young Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1378","Shr","#PLAYERS_Shr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1379","Shr","#SERVANTS.BAPTISTA.1_Shr",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1380","Shr","#SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Phillip_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1381","TGV","#OUTLAWS.1_TGV",NA,"M","Adult","Servant",NA,NA,NA,NA,"#Valentine_TGV",NA,NA,NA,NA,NA
+"1382","TGV","#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1383","TGV","#OUTLAWS.2_TGV",NA,"M","Adult","Servant",NA,NA,NA,NA,"#Valentine_TGV",NA,NA,NA,NA,NA
+"1384","TGV","#OUTLAWS.3_TGV",NA,"M","Adult","Servant",NA,NA,NA,NA,"#Valentine_TGV",NA,NA,NA,NA,NA
+"1385","Tim","#ATTENDANTS.TIMON.0.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1386","Tim","#BANDITS.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1387","Tim","#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1388","Tim","#BANDITS.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1389","Tim","#BANDITS.2_Tim #BANDITS.3_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1390","Tim","#BANDITS.3_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1391","Tim","#Cupid_Tim",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1392","Tim","#Fool_Tim","Fool","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1393","Tim","#FRIENDS.0_Tim",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1394","Tim","#FRIENDS.0.1_Tim",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1395","Tim","#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1396","Tim","#FRIENDS.0.2_Tim",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1397","Tim","#FRIENDS.0.3_Tim",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1398","Tim","#FRIENDS.0.4_Tim",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1399","Tim","#LADIES_Tim",NA,"F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1400","Tim","#LADIES.0.1_Tim",NA,"F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1401","Tim","#LORDS_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1402","Tim","#LORDS.0.2_Tim #LORDS.0.3_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1403","Tim","#LORDS.0.3_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1404","Tim","#Merchant_Tim",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1405","Tim","#MESSENGERS.X.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1406","Tim","#MESSENGERS.X.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1407","Tim","#MESSENGERS.X.3_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1408","Tim","#OldMan_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1409","Tim","#Phrynia_Tim #Timandra_Tim",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1410","Tim","#Poet_Tim #Painter_Tim",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1411","Tim","#SENATORS.0.1_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1412","Tim","#SENATORS.0.2_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1413","Tim","#SENATORS.0.3_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1414","Tim","#SENATORS.1_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1415","Tim","#SENATORS.1_Tim #SENATORS.2_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1416","Tim","#SENATORS.2_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1417","Tim","#SENATORS.3_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1418","Tim","#SENATORS.4_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1419","Tim","#SENATORS.X_Tim",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1420","Tim","#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1421","Tim","#SERVANTS.LUCIUS.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1422","Tim","#SERVANTS.LUCULLUS.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1423","Tim","#SERVANTS.TIMON.0.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1424","Tim","#SERVANTS.TIMON.0.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1425","Tim","#SERVANTS.TIMON.0.3_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1426","Tim","#SERVANTS.TIMON.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1427","Tim","#SERVANTS.TIMON.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1428","Tim","#SERVANTS.TIMON.3_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1429","Tim","#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1430","Tim","#SERVANTS.TIMON.X.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1431","Tim","#SERVANTS.TIMON.X.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1432","Tim","#SERVANTS.VARRO.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1433","Tim","#SOLDIERS.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1434","Tim","#STRANGERS.1_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1435","Tim","#STRANGERS.2_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1436","Tim","#STRANGERS.3_Tim",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1437","Tit","#Bassianus_Tit","Bassianus","M","Adult","Nobility",NA,NA,NA,"#Saturninus_Tit",NA,NA,NA,"Y",2,NA
+"1438","Tit","#Captain_Tit","Captain","M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1439","Tit","#CountryFellow_Tit","Country Fellow","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1440","Tit","#GOTHS_Tit",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1441","Tit","#GOTHS.0_Tit",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1442","Tit","#GOTHS.0.1_Tit",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1443","Tit","#GOTHS.0.2_Tit",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1444","Tit","#Lucius_Tit","Lucius","M","Adult","Nobility",NA,NA,NA,NA,NA,"#Titus_Tit",NA,NA,NA,NA
+"1445","Tit","#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1446","Tit","#Publius_Tit","Publius","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Marcus_Tit",NA,NA,NA,NA
+"1447","Tit","#TRIBUNES_Tit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1448","Tit","#TRIBUNES_Tit #ATTENDANTS_Tit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1449","Tit","#TRIBUNES.0.1_Tit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1450","Tit","#YoungLucius_Tit","Young Lucius","M","Young Adult","Nobility",NA,NA,NA,NA,NA,"#Lucius_Tit",NA,NA,NA,NA
+"1451","Tmp","#Ferdinand_Tmp #Miranda_Tmp",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1452","Tmp","#SAILORS_Tmp",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1453","Tmp","<NA>",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1454","TN","#ATTENDANTS.OLIVIA.1_TN",NA,"F","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1455","TN","#OFFICERS.1_TN",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1456","TN","#OFFICERS.2_TN",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1457","Tro","#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #SOLDIERS.TROJAN_Tro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1458","Tro","#Ajax_Tro #Achilles_Tro #Patroclus_Tro #Agamemnon_Tro #Menelaus_Tro #Ulysses_Tro #Nestor_Tro #ATTENDANTS.GREEK_Tro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1459","Tro","#Bastard_Tro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1460","Tro","#Boy_Tro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1461","Tro","#MYRMIDONS.0.1_Tro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1462","Tro","#Prologue_Tro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1463","Tro","#SERVANTS.DIOMEDES.1_Tro",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1464","Tro","#SERVANTS.PARIS.1_Tro",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1465","Tro","#SERVANTS.TROILUS.1_Tro",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1466","Tro","#SOLDIERS_Tro",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1467","Wiv","#John_Wiv","John","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1468","Wiv","#MasterPage_Wiv #DoctorCaius_Wiv #HughEvans_Wiv",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1469","Wiv","#MasterPage_Wiv #Shallow_2H4 #Slender_Wiv",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1470","Wiv","#MistressFord_Wiv #MistressPage_Wiv",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1471","Wiv","#MistressQuickly_1H4 #Pistol_2H4 #HughEvans_Wiv #BOYS_Wiv",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1472","Wiv","#Robert_Wiv","Robert","M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1473","Wiv","#Robert_Wiv #John_Wiv",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1474","Wiv","#Shallow_2H4 #MasterPage_Wiv",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1475","Wiv","#Slender_Wiv","Slender","M","Young Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1476","WT","#ATTENDANTS_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1477","WT","#ATTENDANTS.0.1_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1478","WT","#ATTENDANTS.1_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1479","WT","#ATTENDANTS.2_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1480","WT","#ATTENDANTS.3_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1481","WT","#ATTENDANTS.X_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1482","WT","#Chorus_WT",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1483","WT","#Cleomenes_WT #Dion_WT",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1484","WT","#Jailer_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1485","WT","#LADIES.0.1_WT",NA,"F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1486","WT","#LADIES.0.2_WT",NA,"F","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1487","WT","#OFFICERS.0.1_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1488","WT","#Sailor_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1489","WT","#SERVANTS.0_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1490","WT","#SERVANTS.SHEPHERD.1_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1491","WT","#SERVANTS.X.1_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1492","WT","#SERVANTS.X.2_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1493","WT","#SERVANTS.X.3_WT",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1494","1H6","#Basset_1H6",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1495","1H6","#Fastolf_1H6",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1496","1H6","#General_1H6",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1497","1H6","#JAILERS.0.1_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1498","1H6","#JohnTalbot_1H6",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1499","1H6","#Lawyer_1H6",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1500","1H6","#Legate_1H6",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1501","1H6","#Lucy_1H6",NA,"M","Adult","Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1502","1H6","#MESSENGERS.ENGLISH.X.2_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1503","1H6","#SERVANTS.1_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1504","1H6","#SERVANTS.2_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1505","1H6","#SERVANTS.3_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1506","1H6","#SERVANTS.GLOUCESTER.0.1_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1507","1H6","#SERVANTS.GLOUCESTER.0.2_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1508","1H6","#SERVANTS.TALBOT.1_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1509","1H6","#SERVANTS.WINCHESTER.0.1_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1510","1H6","#Shepherd_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1511","1H6","#SOLDIERS.ENGLISH.Captain_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1512","1H6","#SOLDIERS.ENGLISH.SOMERSET.0.1_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1513","1H6","#SOLDIERS.FRENCH.PUCELLE.0.1_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1514","1H6","#SOLDIERS.FRENCH.Scout_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1515","1H6","#Vernon_1H6",NA,"M","Adult","Middle Class",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1516","1H6","#Watchman_1H6",NA,"M","Adult","Servant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
